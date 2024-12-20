@@ -1,0 +1,2071 @@
+{
+    "name": "Albinoswagger",
+    "tag": "#2LV0PRU09",
+    "townhall": 16,
+    "legends": {
+        "2024-04-29": {
+            "defenses": [
+                12,
+                19,
+                40,
+                18,
+                0
+            ],
+            "new_defenses": [
+                {
+                    "change": 12,
+                    "time": 1714399300,
+                    "trophies": 4988
+                },
+                {
+                    "change": 19,
+                    "time": 1714399445,
+                    "trophies": 4969
+                },
+                {
+                    "change": 40,
+                    "time": 1714402722,
+                    "trophies": 4929
+                },
+                {
+                    "change": 18,
+                    "time": 1714405504,
+                    "trophies": 4911
+                },
+                {
+                    "change": 0,
+                    "time": 1714438889,
+                    "trophies": 4931
+                }
+            ],
+            "num_attacks": 2,
+            "attacks": [
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1714438889,
+                    "trophies": 4931
+                },
+                {
+                    "change": 40,
+                    "time": 1714441992,
+                    "trophies": 4971
+                }
+            ],
+            "current_trophies": 4971,
+            "total_attacks": 80,
+            "total_defenses": 89
+        },
+        "2024-04-30": {
+            "defenses": [
+                23,
+                25,
+                20
+            ],
+            "new_defenses": [
+                {
+                    "change": 23,
+                    "time": 1714459516,
+                    "trophies": 4948
+                },
+                {
+                    "change": 25,
+                    "time": 1714510426,
+                    "trophies": 5043
+                },
+                {
+                    "change": 20,
+                    "time": 1714510636,
+                    "trophies": 5023
+                }
+            ],
+            "num_attacks": 6,
+            "attacks": [
+                40,
+                40,
+                40,
+                40,
+                30,
+                31
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1714469368,
+                    "trophies": 4988
+                },
+                {
+                    "change": 40,
+                    "time": 1714474714,
+                    "trophies": 5028
+                },
+                {
+                    "change": 40,
+                    "time": 1714508540,
+                    "trophies": 5068
+                },
+                {
+                    "change": 40,
+                    "time": 1714511686,
+                    "trophies": 5063
+                },
+                {
+                    "change": 30,
+                    "time": 1714525407,
+                    "trophies": 5093
+                },
+                {
+                    "change": 31,
+                    "time": 1714528375,
+                    "trophies": 5124
+                }
+            ],
+            "current_trophies": 5124,
+            "total_attacks": 221,
+            "total_defenses": 68
+        },
+        "2024-05-01": {
+            "defenses": [
+                21,
+                21,
+                31,
+                19,
+                27,
+                40,
+                12,
+                20
+            ],
+            "new_defenses": [
+                {
+                    "change": 21,
+                    "time": 1714542477,
+                    "trophies": 5103
+                },
+                {
+                    "change": 21,
+                    "time": 1714544773,
+                    "trophies": 5082
+                },
+                {
+                    "change": 31,
+                    "time": 1714561425,
+                    "trophies": 5051
+                },
+                {
+                    "change": 19,
+                    "time": 1714572575,
+                    "trophies": 5072
+                },
+                {
+                    "change": 27,
+                    "time": 1714575074,
+                    "trophies": 5045
+                },
+                {
+                    "change": 40,
+                    "time": 1714584671,
+                    "trophies": 5036
+                },
+                {
+                    "change": 12,
+                    "time": 1714597023,
+                    "trophies": 5024
+                },
+                {
+                    "change": 20,
+                    "time": 1714600144,
+                    "trophies": 5004
+                }
+            ],
+            "num_attacks": 3,
+            "attacks": [
+                40,
+                31,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1714568036,
+                    "trophies": 5091
+                },
+                {
+                    "change": 31,
+                    "time": 1714581758,
+                    "trophies": 5076
+                },
+                {
+                    "change": 40,
+                    "time": 1714602638,
+                    "trophies": 5044
+                }
+            ],
+            "current_trophies": 5044,
+            "total_attacks": 111,
+            "total_defenses": 191
+        },
+        "2024-05-02": {
+            "defenses": [
+                13,
+                13,
+                24,
+                27,
+                17
+            ],
+            "new_defenses": [
+                {
+                    "change": 13,
+                    "time": 1714632732,
+                    "trophies": 5031
+                },
+                {
+                    "change": 13,
+                    "time": 1714636744,
+                    "trophies": 5018
+                },
+                {
+                    "change": 24,
+                    "time": 1714661392,
+                    "trophies": 4994
+                },
+                {
+                    "change": 27,
+                    "time": 1714672714,
+                    "trophies": 4967
+                },
+                {
+                    "change": 17,
+                    "time": 1714674725,
+                    "trophies": 4950
+                }
+            ],
+            "num_attacks": 2,
+            "attacks": [
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1714676407,
+                    "trophies": 4990
+                },
+                {
+                    "change": 40,
+                    "time": 1714679332,
+                    "trophies": 5030
+                }
+            ],
+            "current_trophies": 5030,
+            "total_attacks": 80,
+            "total_defenses": 94
+        },
+        "2024-05-03": {
+            "defenses": [
+                13,
+                12,
+                19,
+                18
+            ],
+            "new_defenses": [
+                {
+                    "change": 13,
+                    "time": 1714725680,
+                    "trophies": 5017
+                },
+                {
+                    "change": 12,
+                    "time": 1714726297,
+                    "trophies": 5005
+                },
+                {
+                    "change": 19,
+                    "time": 1714755775,
+                    "trophies": 5026
+                },
+                {
+                    "change": 18,
+                    "time": 1714792877,
+                    "trophies": 5079
+                }
+            ],
+            "num_attacks": 3,
+            "attacks": [
+                40,
+                31,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1714748227,
+                    "trophies": 5045
+                },
+                {
+                    "change": 31,
+                    "time": 1714790948,
+                    "trophies": 5057
+                },
+                {
+                    "change": 40,
+                    "time": 1714791622,
+                    "trophies": 5097
+                }
+            ],
+            "current_trophies": 5079,
+            "total_attacks": 111,
+            "total_defenses": 62
+        },
+        "2024-05-04": {
+            "num_attacks": 2,
+            "attacks": [
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1714822163,
+                    "trophies": 5119
+                },
+                {
+                    "change": 40,
+                    "time": 1714829743,
+                    "trophies": 5128
+                }
+            ],
+            "defenses": [
+                31,
+                27,
+                27,
+                17
+            ],
+            "new_defenses": [
+                {
+                    "change": 31,
+                    "time": 1714823414,
+                    "trophies": 5088
+                },
+                {
+                    "change": 27,
+                    "time": 1714844643,
+                    "trophies": 5101
+                },
+                {
+                    "change": 27,
+                    "time": 1714844849,
+                    "trophies": 5074
+                },
+                {
+                    "change": 17,
+                    "time": 1714869628,
+                    "trophies": 5057
+                }
+            ],
+            "current_trophies": 5057,
+            "total_attacks": 80,
+            "total_defenses": 102
+        },
+        "2024-05-05": {
+            "defenses": [
+                28,
+                0,
+                21,
+                40,
+                16,
+                0,
+                19,
+                0
+            ],
+            "new_defenses": [
+                {
+                    "change": 28,
+                    "time": 1714889187,
+                    "trophies": 5029
+                },
+                {
+                    "change": 0,
+                    "time": 1714889187,
+                    "trophies": 5029
+                },
+                {
+                    "change": 21,
+                    "time": 1714898549,
+                    "trophies": 5008
+                },
+                {
+                    "change": 40,
+                    "time": 1714900663,
+                    "trophies": 4968
+                },
+                {
+                    "change": 16,
+                    "time": 1714931424,
+                    "trophies": 5022
+                },
+                {
+                    "change": 0,
+                    "time": 1714931424,
+                    "trophies": 5022
+                },
+                {
+                    "change": 19,
+                    "time": 1714958416,
+                    "trophies": 5003
+                },
+                {
+                    "change": 0,
+                    "time": 1714958416,
+                    "trophies": 5003
+                }
+            ],
+            "num_attacks": 2,
+            "attacks": [
+                70
+            ],
+            "new_attacks": [
+                {
+                    "change": 70,
+                    "time": 1714905931,
+                    "trophies": 5038
+                }
+            ],
+            "current_trophies": 5003,
+            "total_attacks": 70,
+            "total_defenses": 124
+        },
+        "2024-05-06": {
+            "defenses": [
+                21,
+                30,
+                18
+            ],
+            "new_defenses": [
+                {
+                    "change": 21,
+                    "time": 1714991014,
+                    "trophies": 4982
+                },
+                {
+                    "change": 30,
+                    "time": 1715012282,
+                    "trophies": 5032
+                },
+                {
+                    "change": 18,
+                    "time": 1715039777,
+                    "trophies": 5014
+                }
+            ],
+            "num_attacks": 2,
+            "attacks": [
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1715004034,
+                    "trophies": 5022
+                },
+                {
+                    "change": 40,
+                    "time": 1715006945,
+                    "trophies": 5062
+                }
+            ],
+            "current_trophies": 5014,
+            "total_attacks": 80,
+            "total_defenses": 69
+        },
+        "2024-05-07": {
+            "defenses": [
+                27,
+                21,
+                11
+            ],
+            "new_defenses": [
+                {
+                    "change": 27,
+                    "time": 1715074971,
+                    "trophies": 4987
+                },
+                {
+                    "change": 21,
+                    "time": 1715082009,
+                    "trophies": 4966
+                },
+                {
+                    "change": 11,
+                    "time": 1715119658,
+                    "trophies": 5262
+                }
+            ],
+            "num_attacks": 8,
+            "attacks": [
+                40,
+                40,
+                27,
+                40,
+                40,
+                40,
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1715082220,
+                    "trophies": 5006
+                },
+                {
+                    "change": 40,
+                    "time": 1715083521,
+                    "trophies": 5046
+                },
+                {
+                    "change": 27,
+                    "time": 1715088065,
+                    "trophies": 5073
+                },
+                {
+                    "change": 40,
+                    "time": 1715089373,
+                    "trophies": 5113
+                },
+                {
+                    "change": 40,
+                    "time": 1715093234,
+                    "trophies": 5153
+                },
+                {
+                    "change": 40,
+                    "time": 1715097534,
+                    "trophies": 5193
+                },
+                {
+                    "change": 40,
+                    "time": 1715100408,
+                    "trophies": 5233
+                },
+                {
+                    "change": 40,
+                    "time": 1715101053,
+                    "trophies": 5273
+                }
+            ],
+            "current_trophies": 5262,
+            "total_attacks": 307,
+            "total_defenses": 59
+        },
+        "2024-05-08": {
+            "defenses": [
+                30,
+                40,
+                40,
+                28,
+                30,
+                19,
+                21,
+                20
+            ],
+            "new_defenses": [
+                {
+                    "change": 30,
+                    "time": 1715162902,
+                    "trophies": 5232
+                },
+                {
+                    "change": 40,
+                    "time": 1715165521,
+                    "trophies": 5192
+                },
+                {
+                    "change": 40,
+                    "time": 1715167904,
+                    "trophies": 5152
+                },
+                {
+                    "change": 28,
+                    "time": 1715178761,
+                    "trophies": 5178
+                },
+                {
+                    "change": 30,
+                    "time": 1715195124,
+                    "trophies": 5148
+                },
+                {
+                    "change": 19,
+                    "time": 1715204459,
+                    "trophies": 5129
+                },
+                {
+                    "change": 21,
+                    "time": 1715205120,
+                    "trophies": 5108
+                },
+                {
+                    "change": 20,
+                    "time": 1715227381,
+                    "trophies": 5160
+                }
+            ],
+            "num_attacks": 4,
+            "attacks": [
+                40,
+                14,
+                40,
+                32
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1715172474,
+                    "trophies": 5192
+                },
+                {
+                    "change": 14,
+                    "time": 1715176164,
+                    "trophies": 5206
+                },
+                {
+                    "change": 40,
+                    "time": 1715211179,
+                    "trophies": 5148
+                },
+                {
+                    "change": 32,
+                    "time": 1715219949,
+                    "trophies": 5180
+                }
+            ],
+            "current_trophies": 5160,
+            "total_attacks": 126,
+            "total_defenses": 228
+        },
+        "2024-05-09": {
+            "defenses": [
+                21,
+                20,
+                10,
+                26,
+                27
+            ],
+            "new_defenses": [
+                {
+                    "change": 21,
+                    "time": 1715252277,
+                    "trophies": 5139
+                },
+                {
+                    "change": 20,
+                    "time": 1715264053,
+                    "trophies": 5173
+                },
+                {
+                    "change": 10,
+                    "time": 1715277985,
+                    "trophies": 5203
+                },
+                {
+                    "change": 26,
+                    "time": 1715289589,
+                    "trophies": 5177
+                },
+                {
+                    "change": 27,
+                    "time": 1715309761,
+                    "trophies": 5150
+                }
+            ],
+            "num_attacks": 3,
+            "attacks": [
+                40,
+                14,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1715256169,
+                    "trophies": 5179
+                },
+                {
+                    "change": 14,
+                    "time": 1715256712,
+                    "trophies": 5193
+                },
+                {
+                    "change": 40,
+                    "time": 1715266468,
+                    "trophies": 5213
+                }
+            ],
+            "current_trophies": 5150,
+            "total_attacks": 94,
+            "total_defenses": 104
+        },
+        "2024-05-10": {
+            "defenses": [
+                20,
+                40,
+                11,
+                21,
+                21
+            ],
+            "new_defenses": [
+                {
+                    "change": 20,
+                    "time": 1715317735,
+                    "trophies": 5130
+                },
+                {
+                    "change": 40,
+                    "time": 1715320700,
+                    "trophies": 5090
+                },
+                {
+                    "change": 11,
+                    "time": 1715330526,
+                    "trophies": 5101
+                },
+                {
+                    "change": 21,
+                    "time": 1715346632,
+                    "trophies": 5160
+                },
+                {
+                    "change": 21,
+                    "time": 1715391026,
+                    "trophies": 5139
+                }
+            ],
+            "num_attacks": 3,
+            "attacks": [
+                22,
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 22,
+                    "time": 1715329327,
+                    "trophies": 5112
+                },
+                {
+                    "change": 40,
+                    "time": 1715332325,
+                    "trophies": 5141
+                },
+                {
+                    "change": 40,
+                    "time": 1715345098,
+                    "trophies": 5181
+                }
+            ],
+            "current_trophies": 5139,
+            "total_attacks": 102,
+            "total_defenses": 113
+        },
+        "2024-05-11": {
+            "defenses": [
+                22,
+                10,
+                11,
+                10,
+                12,
+                26
+            ],
+            "new_defenses": [
+                {
+                    "change": 22,
+                    "time": 1715415708,
+                    "trophies": 5117
+                },
+                {
+                    "change": 10,
+                    "time": 1715436944,
+                    "trophies": 5107
+                },
+                {
+                    "change": 11,
+                    "time": 1715439422,
+                    "trophies": 5096
+                },
+                {
+                    "change": 10,
+                    "time": 1715443937,
+                    "trophies": 5086
+                },
+                {
+                    "change": 12,
+                    "time": 1715482569,
+                    "trophies": 5154
+                },
+                {
+                    "change": 26,
+                    "time": 1715489454,
+                    "trophies": 5128
+                }
+            ],
+            "num_attacks": 2,
+            "attacks": [
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1715448892,
+                    "trophies": 5126
+                },
+                {
+                    "change": 40,
+                    "time": 1715463398,
+                    "trophies": 5166
+                }
+            ],
+            "current_trophies": 5128,
+            "total_attacks": 80,
+            "total_defenses": 91
+        },
+        "2024-05-12": {
+            "defenses": [
+                11,
+                11,
+                25,
+                12,
+                11,
+                17
+            ],
+            "new_defenses": [
+                {
+                    "change": 11,
+                    "time": 1715503975,
+                    "trophies": 5117
+                },
+                {
+                    "change": 11,
+                    "time": 1715505460,
+                    "trophies": 5106
+                },
+                {
+                    "change": 25,
+                    "time": 1715509012,
+                    "trophies": 5081
+                },
+                {
+                    "change": 12,
+                    "time": 1715537250,
+                    "trophies": 5109
+                },
+                {
+                    "change": 11,
+                    "time": 1715565308,
+                    "trophies": 5249
+                },
+                {
+                    "change": 17,
+                    "time": 1715565761,
+                    "trophies": 5232
+                }
+            ],
+            "num_attacks": 5,
+            "attacks": [
+                40,
+                40,
+                40,
+                71
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1715531807,
+                    "trophies": 5121
+                },
+                {
+                    "change": 40,
+                    "time": 1715554767,
+                    "trophies": 5149
+                },
+                {
+                    "change": 40,
+                    "time": 1715556341,
+                    "trophies": 5189
+                },
+                {
+                    "change": 71,
+                    "time": 1715561176,
+                    "trophies": 5260
+                }
+            ],
+            "current_trophies": 5232,
+            "total_attacks": 191,
+            "total_defenses": 87
+        },
+        "2024-05-13": {
+            "defenses": [
+                19,
+                27,
+                21,
+                13,
+                11,
+                25,
+                25
+            ],
+            "new_defenses": [
+                {
+                    "change": 19,
+                    "time": 1715584815,
+                    "trophies": 5213
+                },
+                {
+                    "change": 27,
+                    "time": 1715585658,
+                    "trophies": 5186
+                },
+                {
+                    "change": 21,
+                    "time": 1715589094,
+                    "trophies": 5165
+                },
+                {
+                    "change": 13,
+                    "time": 1715592533,
+                    "trophies": 5152
+                },
+                {
+                    "change": 11,
+                    "time": 1715609054,
+                    "trophies": 5221
+                },
+                {
+                    "change": 25,
+                    "time": 1715618529,
+                    "trophies": 5196
+                },
+                {
+                    "change": 25,
+                    "time": 1715618747,
+                    "trophies": 5171
+                }
+            ],
+            "num_attacks": 4,
+            "attacks": [
+                40,
+                40,
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1715600323,
+                    "trophies": 5192
+                },
+                {
+                    "change": 40,
+                    "time": 1715604132,
+                    "trophies": 5232
+                },
+                {
+                    "change": 40,
+                    "time": 1715622796,
+                    "trophies": 5211
+                },
+                {
+                    "change": 40,
+                    "time": 1715637279,
+                    "trophies": 5251
+                }
+            ],
+            "current_trophies": 5251,
+            "total_attacks": 160,
+            "total_defenses": 141
+        },
+        "2024-05-14": {
+            "num_attacks": 2,
+            "attacks": [
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1715673822,
+                    "trophies": 5331
+                },
+                {
+                    "change": 40,
+                    "time": 1715673822,
+                    "trophies": 5331
+                }
+            ],
+            "defenses": [
+                23,
+                25,
+                24,
+                28,
+                19,
+                28,
+                25,
+                26
+            ],
+            "new_defenses": [
+                {
+                    "change": 23,
+                    "time": 1715688950,
+                    "trophies": 5308
+                },
+                {
+                    "change": 25,
+                    "time": 1715695842,
+                    "trophies": 5283
+                },
+                {
+                    "change": 24,
+                    "time": 1715697127,
+                    "trophies": 5259
+                },
+                {
+                    "change": 28,
+                    "time": 1715699495,
+                    "trophies": 5231
+                },
+                {
+                    "change": 19,
+                    "time": 1715700374,
+                    "trophies": 5212
+                },
+                {
+                    "change": 28,
+                    "time": 1715701675,
+                    "trophies": 5184
+                },
+                {
+                    "change": 25,
+                    "time": 1715715944,
+                    "trophies": 5159
+                },
+                {
+                    "change": 26,
+                    "time": 1715723058,
+                    "trophies": 5133
+                }
+            ],
+            "current_trophies": 5133,
+            "total_attacks": 80,
+            "total_defenses": 198
+        },
+        "2024-05-15": {
+            "num_attacks": 2,
+            "attacks": [
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1715777666,
+                    "trophies": 5173
+                },
+                {
+                    "change": 40,
+                    "time": 1715778537,
+                    "trophies": 5213
+                }
+            ],
+            "defenses": [
+                29,
+                0,
+                29,
+                23,
+                12,
+                14
+            ],
+            "new_defenses": [
+                {
+                    "change": 29,
+                    "time": 1715802635,
+                    "trophies": 5184
+                },
+                {
+                    "change": 0,
+                    "time": 1715802635,
+                    "trophies": 5184
+                },
+                {
+                    "change": 29,
+                    "time": 1715807920,
+                    "trophies": 5155
+                },
+                {
+                    "change": 23,
+                    "time": 1715817523,
+                    "trophies": 5132
+                },
+                {
+                    "change": 12,
+                    "time": 1715823783,
+                    "trophies": 5120
+                },
+                {
+                    "change": 14,
+                    "time": 1715827725,
+                    "trophies": 5106
+                }
+            ],
+            "current_trophies": 5106,
+            "total_attacks": 80,
+            "total_defenses": 107
+        },
+        "2024-05-16": {
+            "defenses": [
+                12,
+                11,
+                22,
+                22,
+                15,
+                25
+            ],
+            "new_defenses": [
+                {
+                    "change": 12,
+                    "time": 1715849838,
+                    "trophies": 5094
+                },
+                {
+                    "change": 11,
+                    "time": 1715865467,
+                    "trophies": 5163
+                },
+                {
+                    "change": 22,
+                    "time": 1715871447,
+                    "trophies": 5141
+                },
+                {
+                    "change": 22,
+                    "time": 1715875436,
+                    "trophies": 5119
+                },
+                {
+                    "change": 15,
+                    "time": 1715899045,
+                    "trophies": 5144
+                },
+                {
+                    "change": 25,
+                    "time": 1715900612,
+                    "trophies": 5119
+                }
+            ],
+            "num_attacks": 3,
+            "attacks": [
+                40,
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1715860178,
+                    "trophies": 5134
+                },
+                {
+                    "change": 40,
+                    "time": 1715860626,
+                    "trophies": 5174
+                },
+                {
+                    "change": 40,
+                    "time": 1715878529,
+                    "trophies": 5159
+                }
+            ],
+            "current_trophies": 5119,
+            "total_attacks": 120,
+            "total_defenses": 107
+        },
+        "2024-05-17": {
+            "num_attacks": 2,
+            "attacks": [
+                40,
+                28
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1715939694,
+                    "trophies": 5159
+                },
+                {
+                    "change": 28,
+                    "time": 1715940812,
+                    "trophies": 5187
+                }
+            ],
+            "defenses": [
+                14,
+                31,
+                11
+            ],
+            "new_defenses": [
+                {
+                    "change": 14,
+                    "time": 1715976710,
+                    "trophies": 5173
+                },
+                {
+                    "change": 31,
+                    "time": 1715977378,
+                    "trophies": 5142
+                },
+                {
+                    "change": 11,
+                    "time": 1715981892,
+                    "trophies": 5131
+                }
+            ],
+            "current_trophies": 5131,
+            "total_attacks": 68,
+            "total_defenses": 56
+        },
+        "2024-05-18": {
+            "defenses": [
+                12,
+                12
+            ],
+            "new_defenses": [
+                {
+                    "change": 12,
+                    "time": 1716017436,
+                    "trophies": 5119
+                },
+                {
+                    "change": 12,
+                    "time": 1716072817,
+                    "trophies": 5253
+                }
+            ],
+            "num_attacks": 5,
+            "attacks": [
+                40,
+                26,
+                40,
+                40,
+                29
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1716028746,
+                    "trophies": 5159
+                },
+                {
+                    "change": 26,
+                    "time": 1716028972,
+                    "trophies": 5185
+                },
+                {
+                    "change": 40,
+                    "time": 1716043570,
+                    "trophies": 5225
+                },
+                {
+                    "change": 40,
+                    "time": 1716045838,
+                    "trophies": 5265
+                },
+                {
+                    "change": 29,
+                    "time": 1716075058,
+                    "trophies": 5282
+                }
+            ],
+            "current_trophies": 5282,
+            "total_attacks": 175,
+            "total_defenses": 24
+        },
+        "2024-05-19": {
+            "defenses": [
+                13,
+                12,
+                29
+            ],
+            "new_defenses": [
+                {
+                    "change": 13,
+                    "time": 1716099972,
+                    "trophies": 5269
+                },
+                {
+                    "change": 12,
+                    "time": 1716112967,
+                    "trophies": 5257
+                },
+                {
+                    "change": 29,
+                    "time": 1716165258,
+                    "trophies": 5483
+                }
+            ],
+            "num_attacks": 2,
+            "attacks": [
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1716115292,
+                    "trophies": 5297
+                },
+                {
+                    "change": 40,
+                    "time": 1716122721,
+                    "trophies": 5337
+                }
+            ],
+            "current_trophies": 5483,
+            "total_attacks": 80,
+            "total_defenses": 54
+        },
+        "2024-05-20": {
+            "num_attacks": 8,
+            "attacks": [
+                40,
+                40,
+                40,
+                40,
+                29,
+                40,
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1716202846,
+                    "trophies": 5523
+                },
+                {
+                    "change": 40,
+                    "time": 1716203262,
+                    "trophies": 5563
+                },
+                {
+                    "change": 40,
+                    "time": 1716220126,
+                    "trophies": 5512
+                },
+                {
+                    "change": 40,
+                    "time": 1716251767,
+                    "trophies": 5509
+                },
+                {
+                    "change": 29,
+                    "time": 1716253246,
+                    "trophies": 5538
+                },
+                {
+                    "change": 40,
+                    "time": 1716255326,
+                    "trophies": 5578
+                },
+                {
+                    "change": 40,
+                    "time": 1716255942,
+                    "trophies": 5618
+                },
+                {
+                    "change": 40,
+                    "time": 1716256361,
+                    "trophies": 5658
+                }
+            ],
+            "defenses": [
+                40,
+                24,
+                27,
+                15,
+                13,
+                15,
+                28
+            ],
+            "new_defenses": [
+                {
+                    "change": 40,
+                    "time": 1716203876,
+                    "trophies": 5523
+                },
+                {
+                    "change": 24,
+                    "time": 1716213286,
+                    "trophies": 5499
+                },
+                {
+                    "change": 27,
+                    "time": 1716218060,
+                    "trophies": 5472
+                },
+                {
+                    "change": 15,
+                    "time": 1716223452,
+                    "trophies": 5497
+                },
+                {
+                    "change": 13,
+                    "time": 1716232977,
+                    "trophies": 5484
+                },
+                {
+                    "change": 15,
+                    "time": 1716243868,
+                    "trophies": 5469
+                },
+                {
+                    "change": 28,
+                    "time": 1716260529,
+                    "trophies": 5630
+                }
+            ],
+            "current_trophies": 5630,
+            "total_attacks": 309,
+            "total_defenses": 162
+        },
+        "2024-05-21": {
+            "defenses": [
+                40,
+                23,
+                40,
+                12,
+                15,
+                14,
+                28,
+                12
+            ],
+            "new_defenses": [
+                {
+                    "change": 40,
+                    "time": 1716269476,
+                    "trophies": 5590
+                },
+                {
+                    "change": 23,
+                    "time": 1716272667,
+                    "trophies": 5567
+                },
+                {
+                    "change": 40,
+                    "time": 1716284482,
+                    "trophies": 5527
+                },
+                {
+                    "change": 12,
+                    "time": 1716285745,
+                    "trophies": 5515
+                },
+                {
+                    "change": 15,
+                    "time": 1716289332,
+                    "trophies": 5570
+                },
+                {
+                    "change": 14,
+                    "time": 1716291663,
+                    "trophies": 5556
+                },
+                {
+                    "change": 28,
+                    "time": 1716343086,
+                    "trophies": 5747
+                },
+                {
+                    "change": 12,
+                    "time": 1716350679,
+                    "trophies": 5735
+                }
+            ],
+            "num_attacks": 8,
+            "attacks": [
+                30,
+                40,
+                40,
+                30,
+                40,
+                40,
+                29,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 30,
+                    "time": 1716287217,
+                    "trophies": 5545
+                },
+                {
+                    "change": 40,
+                    "time": 1716288493,
+                    "trophies": 5585
+                },
+                {
+                    "change": 40,
+                    "time": 1716298540,
+                    "trophies": 5596
+                },
+                {
+                    "change": 30,
+                    "time": 1716302579,
+                    "trophies": 5626
+                },
+                {
+                    "change": 40,
+                    "time": 1716306795,
+                    "trophies": 5666
+                },
+                {
+                    "change": 40,
+                    "time": 1716317728,
+                    "trophies": 5706
+                },
+                {
+                    "change": 29,
+                    "time": 1716323580,
+                    "trophies": 5735
+                },
+                {
+                    "change": 40,
+                    "time": 1716338539,
+                    "trophies": 5775
+                }
+            ],
+            "current_trophies": 5735,
+            "total_attacks": 289,
+            "total_defenses": 184
+        },
+        "2024-05-22": {
+            "defenses": [
+                30,
+                40,
+                26,
+                9,
+                31,
+                29,
+                40,
+                40
+            ],
+            "new_defenses": [
+                {
+                    "change": 30,
+                    "time": 1716358931,
+                    "trophies": 5705
+                },
+                {
+                    "change": 40,
+                    "time": 1716359617,
+                    "trophies": 5665
+                },
+                {
+                    "change": 26,
+                    "time": 1716372013,
+                    "trophies": 5639
+                },
+                {
+                    "change": 9,
+                    "time": 1716374284,
+                    "trophies": 5630
+                },
+                {
+                    "change": 31,
+                    "time": 1716383735,
+                    "trophies": 5710
+                },
+                {
+                    "change": 29,
+                    "time": 1716388452,
+                    "trophies": 5742
+                },
+                {
+                    "change": 40,
+                    "time": 1716398376,
+                    "trophies": 5763
+                },
+                {
+                    "change": 40,
+                    "time": 1716424837,
+                    "trophies": 5723
+                }
+            ],
+            "num_attacks": 7,
+            "attacks": [
+                40,
+                31,
+                40,
+                61,
+                30,
+                31
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1716375859,
+                    "trophies": 5670
+                },
+                {
+                    "change": 31,
+                    "time": 1716381470,
+                    "trophies": 5701
+                },
+                {
+                    "change": 40,
+                    "time": 1716381917,
+                    "trophies": 5741
+                },
+                {
+                    "change": 61,
+                    "time": 1716387776,
+                    "trophies": 5771
+                },
+                {
+                    "change": 30,
+                    "time": 1716390267,
+                    "trophies": 5772
+                },
+                {
+                    "change": 31,
+                    "time": 1716398153,
+                    "trophies": 5803
+                }
+            ],
+            "current_trophies": 5723,
+            "total_attacks": 233,
+            "total_defenses": 245
+        },
+        "2024-05-23": {
+            "defenses": [
+                40,
+                40,
+                12,
+                40,
+                15,
+                30,
+                15,
+                40
+            ],
+            "new_defenses": [
+                {
+                    "change": 40,
+                    "time": 1716441732,
+                    "trophies": 5683
+                },
+                {
+                    "change": 40,
+                    "time": 1716443137,
+                    "trophies": 5643
+                },
+                {
+                    "change": 12,
+                    "time": 1716443366,
+                    "trophies": 5631
+                },
+                {
+                    "change": 40,
+                    "time": 1716453438,
+                    "trophies": 5591
+                },
+                {
+                    "change": 15,
+                    "time": 1716456376,
+                    "trophies": 5576
+                },
+                {
+                    "change": 30,
+                    "time": 1716456835,
+                    "trophies": 5546
+                },
+                {
+                    "change": 15,
+                    "time": 1716458429,
+                    "trophies": 5531
+                },
+                {
+                    "change": 40,
+                    "time": 1716475032,
+                    "trophies": 5577
+                }
+            ],
+            "num_attacks": 8,
+            "attacks": [
+                29,
+                32,
+                25,
+                40,
+                31,
+                40,
+                40,
+                31
+            ],
+            "new_attacks": [
+                {
+                    "change": 29,
+                    "time": 1716466590,
+                    "trophies": 5560
+                },
+                {
+                    "change": 32,
+                    "time": 1716469548,
+                    "trophies": 5592
+                },
+                {
+                    "change": 25,
+                    "time": 1716469777,
+                    "trophies": 5617
+                },
+                {
+                    "change": 40,
+                    "time": 1716475257,
+                    "trophies": 5617
+                },
+                {
+                    "change": 31,
+                    "time": 1716476168,
+                    "trophies": 5648
+                },
+                {
+                    "change": 40,
+                    "time": 1716484343,
+                    "trophies": 5688
+                },
+                {
+                    "change": 40,
+                    "time": 1716485938,
+                    "trophies": 5728
+                },
+                {
+                    "change": 31,
+                    "time": 1716489990,
+                    "trophies": 5759
+                }
+            ],
+            "current_trophies": 5759,
+            "total_attacks": 268,
+            "total_defenses": 232
+        },
+        "2024-05-24": {
+            "defenses": [
+                15,
+                54,
+                15,
+                40,
+                31,
+                29
+            ],
+            "new_defenses": [
+                {
+                    "change": 15,
+                    "time": 1716537674,
+                    "trophies": 5744
+                },
+                {
+                    "change": 54,
+                    "time": 1716547787,
+                    "trophies": 5690
+                },
+                {
+                    "change": 15,
+                    "time": 1716550062,
+                    "trophies": 5675
+                },
+                {
+                    "change": 40,
+                    "time": 1716553037,
+                    "trophies": 5635
+                },
+                {
+                    "change": 31,
+                    "time": 1716587945,
+                    "trophies": 5899
+                },
+                {
+                    "change": 29,
+                    "time": 1716608405,
+                    "trophies": 5870
+                }
+            ],
+            "num_attacks": 8,
+            "attacks": [
+                40,
+                40,
+                32,
+                40,
+                40,
+                31,
+                40,
+                32
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1716556474,
+                    "trophies": 5675
+                },
+                {
+                    "change": 40,
+                    "time": 1716564765,
+                    "trophies": 5715
+                },
+                {
+                    "change": 32,
+                    "time": 1716566382,
+                    "trophies": 5747
+                },
+                {
+                    "change": 40,
+                    "time": 1716568212,
+                    "trophies": 5787
+                },
+                {
+                    "change": 40,
+                    "time": 1716576471,
+                    "trophies": 5827
+                },
+                {
+                    "change": 31,
+                    "time": 1716577164,
+                    "trophies": 5858
+                },
+                {
+                    "change": 40,
+                    "time": 1716579946,
+                    "trophies": 5898
+                },
+                {
+                    "change": 32,
+                    "time": 1716581550,
+                    "trophies": 5930
+                }
+            ],
+            "current_trophies": 5870,
+            "total_attacks": 295,
+            "total_defenses": 184
+        },
+        "2024-05-25": {
+            "num_attacks": 8,
+            "attacks": [
+                52,
+                40,
+                40,
+                40,
+                40,
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 52,
+                    "time": 1716629978,
+                    "trophies": 5922
+                },
+                {
+                    "change": 40,
+                    "time": 1716630441,
+                    "trophies": 5962
+                },
+                {
+                    "change": 40,
+                    "time": 1716631363,
+                    "trophies": 6002
+                },
+                {
+                    "change": 40,
+                    "time": 1716631827,
+                    "trophies": 6042
+                },
+                {
+                    "change": 40,
+                    "time": 1716656268,
+                    "trophies": 5925
+                },
+                {
+                    "change": 40,
+                    "time": 1716673133,
+                    "trophies": 6005
+                },
+                {
+                    "change": 40,
+                    "time": 1716673133,
+                    "trophies": 6005
+                }
+            ],
+            "defenses": [
+                40,
+                15,
+                40,
+                32,
+                30,
+                40,
+                40,
+                40
+            ],
+            "new_defenses": [
+                {
+                    "change": 40,
+                    "time": 1716632295,
+                    "trophies": 6002
+                },
+                {
+                    "change": 15,
+                    "time": 1716633689,
+                    "trophies": 5987
+                },
+                {
+                    "change": 40,
+                    "time": 1716635546,
+                    "trophies": 5947
+                },
+                {
+                    "change": 32,
+                    "time": 1716636937,
+                    "trophies": 5915
+                },
+                {
+                    "change": 30,
+                    "time": 1716653261,
+                    "trophies": 5885
+                },
+                {
+                    "change": 40,
+                    "time": 1716679379,
+                    "trophies": 5965
+                },
+                {
+                    "change": 40,
+                    "time": 1716685310,
+                    "trophies": 5925
+                },
+                {
+                    "change": 40,
+                    "time": 1716697368,
+                    "trophies": 5885
+                }
+            ],
+            "current_trophies": 5885,
+            "total_attacks": 292,
+            "total_defenses": 277
+        },
+        "2024-05-26": {
+            "defenses": [
+                40,
+                15,
+                40,
+                40,
+                40,
+                40,
+                40,
+                40
+            ],
+            "new_defenses": [
+                {
+                    "change": 40,
+                    "time": 1716703883,
+                    "trophies": 5845
+                },
+                {
+                    "change": 15,
+                    "time": 1716711212,
+                    "trophies": 5830
+                },
+                {
+                    "change": 40,
+                    "time": 1716716539,
+                    "trophies": 5790
+                },
+                {
+                    "change": 40,
+                    "time": 1716723311,
+                    "trophies": 5750
+                },
+                {
+                    "change": 40,
+                    "time": 1716737836,
+                    "trophies": 5710
+                },
+                {
+                    "change": 40,
+                    "time": 1716739285,
+                    "trophies": 5725
+                },
+                {
+                    "change": 40,
+                    "time": 1716753274,
+                    "trophies": 5739
+                },
+                {
+                    "change": 40,
+                    "time": 1716773048,
+                    "trophies": 5851
+                }
+            ],
+            "num_attacks": 8,
+            "attacks": [
+                55,
+                54,
+                40,
+                32,
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 55,
+                    "time": 1716738805,
+                    "trophies": 5765
+                },
+                {
+                    "change": 54,
+                    "time": 1716746945,
+                    "trophies": 5779
+                },
+                {
+                    "change": 40,
+                    "time": 1716754001,
+                    "trophies": 5779
+                },
+                {
+                    "change": 32,
+                    "time": 1716758132,
+                    "trophies": 5811
+                },
+                {
+                    "change": 40,
+                    "time": 1716758625,
+                    "trophies": 5851
+                },
+                {
+                    "change": 40,
+                    "time": 1716764442,
+                    "trophies": 5891
+                }
+            ],
+            "current_trophies": 5851,
+            "total_attacks": 261,
+            "total_defenses": 295
+        }
+    },
+    "rankings": {
+        "tag": "#2LV0PRU09",
+        "country_code": "DE",
+        "country_name": "Germany",
+        "local_rank": null,
+        "builder_global_rank": null,
+        "builder_local_rank": null,
+        "global_rank": 39450
+    },
+    "streak": 0
+}

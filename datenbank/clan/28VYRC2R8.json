@@ -1,0 +1,207 @@
+{
+    "tag": "#28VYRC2R8",
+    "name": "DZ⚜️Utopia",
+    "type": "inviteOnly",
+    "description": "☠️Willkommen im Reich der Toten☠️                                                                                      ⚜️Ab TH 10 unrushed                                                           ⚜️Discord: gAxdSN47kS",
+    "location": {
+        "id": 32000094,
+        "name": "Germany",
+        "isCountry": true,
+        "countryCode": "DE"
+    },
+    "isFamilyFriendly": false,
+    "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/oaygM0AU0VupNHITpoIcnWW9a6YMG-houO7GUmuYGlg.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/oaygM0AU0VupNHITpoIcnWW9a6YMG-houO7GUmuYGlg.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/oaygM0AU0VupNHITpoIcnWW9a6YMG-houO7GUmuYGlg.png"
+    },
+    "clanLevel": 17,
+    "clanPoints": 4983,
+    "clanBuilderBasePoints": 4666,
+    "clanCapitalPoints": 930,
+    "capitalLeague": {
+        "id": 85000004,
+        "name": "Silver League III"
+    },
+    "requiredTrophies": 200,
+    "warFrequency": "always",
+    "warWinStreak": 2,
+    "warWins": 267,
+    "warTies": 13,
+    "warLosses": 46,
+    "isWarLogPublic": true,
+    "warLeague": {
+        "id": 48000014,
+        "name": "Master League II"
+    },
+    "members": 4,
+    "memberList": [
+        {
+            "tag": "#YRUURQRCC",
+            "name": "☁️Sugar☁️",
+            "role": "Elder",
+            "townHallLevel": 14,
+            "expLevel": 200,
+            "league": {
+                "id": 29000014,
+                "name": "Master League II",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png"
+                }
+            },
+            "trophies": 2855,
+            "builderBaseTrophies": 3344,
+            "clanRank": 1,
+            "previousClanRank": 1,
+            "donations": 0,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000002
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000049
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000010
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000063
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000026,
+                "name": "Steel League III"
+            }
+        },
+        {
+            "tag": "#LJ2JUP9L0",
+            "name": "•DZ⚜️Teemo185™️",
+            "role": "Co-Leader",
+            "townHallLevel": 13,
+            "expLevel": 187,
+            "league": {
+                "id": 29000014,
+                "name": "Master League II",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/4wtS1stWZQ-1VJ5HaCuDPfdhTWjeZs_jPar_YPzK6Lg.png"
+                }
+            },
+            "trophies": 2830,
+            "builderBaseTrophies": 2729,
+            "clanRank": 2,
+            "previousClanRank": 2,
+            "donations": 0,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000002
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000049
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000082
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000064
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000023,
+                "name": "Iron League III"
+            }
+        },
+        {
+            "tag": "#8PJRCL9Q0",
+            "name": "maxi3304",
+            "role": "Co-Leader",
+            "townHallLevel": 13,
+            "expLevel": 164,
+            "league": {
+                "id": 29000000,
+                "name": "Unranked",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+                    "medium": null
+                }
+            },
+            "trophies": 2775,
+            "builderBaseTrophies": 2977,
+            "clanRank": 3,
+            "previousClanRank": 3,
+            "donations": 0,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": []
+            },
+            "builderBaseLeague": {
+                "id": 44000024,
+                "name": "Iron League II"
+            }
+        },
+        {
+            "tag": "#QGY9Y8RVP",
+            "name": "Mika8",
+            "role": "Leader",
+            "townHallLevel": 12,
+            "expLevel": 125,
+            "league": {
+                "id": 29000000,
+                "name": "Unranked",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+                    "medium": null
+                }
+            },
+            "trophies": 1508,
+            "builderBaseTrophies": 285,
+            "clanRank": 4,
+            "previousClanRank": 4,
+            "donations": 0,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000001
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000049
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000010
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000061
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000002,
+                "name": "Wood League III"
+            }
+        }
+    ]
+}

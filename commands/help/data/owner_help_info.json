@@ -1,0 +1,41 @@
+{
+    "einleitung": "Hier findest du alle wichtigen Informationen und Befehle für Owner.",
+    "optionen": [
+        {
+            "name": "Legend Player",
+            "beschreibung": "Verwaltung der Legend Player Listen",
+            "commands": [
+                {
+                    "name": "/playertags add",
+                    "beschreibung": "```Füge einen neuen Player-Tag hinzu der mit Legende getrackt werden soll.```"
+                },
+                {
+                    "name": "/playertags delete",
+                    "beschreibung": "```Entfernt einen Playertag aus der Liste der zu trackenden Spieler.```"
+                },
+                {
+                    "name": "/playertags update",
+                    "beschreibung": "```Uberträgt die Playertags in eine json datei und sucht sich den namen aus den Clan Datein.\nWenn unknow zurück gegeben wird dann ist der Spieler nicht teil einer der Clans.\nDieser Command ist wichtig da die Liste für den Command Legend Day gebraucht wird.```"
+                },
+                {
+                    "name": "/playertags list",
+                    "beschreibung": "```Gibt die Liste wieder der Accounts die momentan getrackt werden.```"
+                }
+            ]
+        },
+        {
+            "name": "Kategorie 2",
+            "beschreibung": "Beschreibung der Kategorie 2.",
+            "commands": [
+                {
+                    "name": "/befehl3",
+                    "beschreibung": "Beschreibung des Befehls 3."
+                },
+                {
+                    "name": "/befehl4",
+                    "beschreibung": "Beschreibung des Befehls 4."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+
+
+# Ignoriere spezifische Python-Dateien
+Bot/Setup/Discord/user_ids.py
+Bot/Setup/Discord/server_ids.py
+Bot/Setup/Discord/channel_ids.py
+
+# Python Byte-Compiled Files
+**/__pycache__/
+
+# Spezifische init-Dateien, die ignoriert werden sollen
+**/__init__.py
+
+# Konfigurations- und Umgebungsdateien
+audit_logs.json
+secret.env
+poetry.lock
+pyproject.toml
+bot/secret/channel.env
+bot/secret/coc.env
+bot/secret/discord.env
+bot/secret/webhook.env
+
+# Verzeichnisse von Paketmanagern und Projektspezifische
+.pythonlibs/
+.upm/
+.replit
+replit.nix
+
+# Cogs spezifische __pycache__ Verzeichnisse
+Cogs/__pycache__/
+Cogs/Commands/__pycache__/
+Cogs/Events/__pycache__/
+Cogs/Events/Channel_Events/__pycache__/
+Cogs/Events/Member_Events/__pycache__/
+Cogs/Events/Message_Events/__pycache__/
+Cogs/Events/Role_Events/__pycache__/
+Cogs/Update/__pycache__/
+Cogs/Update/Counter/__pycache__/
+
+event/player/webhooks/webhook_2.json

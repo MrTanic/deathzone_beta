@@ -1,0 +1,173 @@
+{
+    "tag": "#2LRPVRCJ0",
+    "name": "DZ⚜️FighterZ",
+    "type": "inviteOnly",
+    "description": "☠️Willkommen im Reich der Toten☠️\n⚜️Ab TH7\n⚜️Discord: gAxdSN47kS",
+    "location": {
+        "id": 32000094,
+        "name": "Germany",
+        "isCountry": true,
+        "countryCode": "DE"
+    },
+    "isFamilyFriendly": false,
+    "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/IzwPpb9PtzRA3cOyrGB71pjJ4bKo9Ud5onMSLgMN_bw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/IzwPpb9PtzRA3cOyrGB71pjJ4bKo9Ud5onMSLgMN_bw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/IzwPpb9PtzRA3cOyrGB71pjJ4bKo9Ud5onMSLgMN_bw.png"
+    },
+    "clanLevel": 6,
+    "clanPoints": 3062,
+    "clanBuilderBasePoints": 3955,
+    "clanCapitalPoints": 2,
+    "capitalLeague": {
+        "id": 85000000,
+        "name": "Unranked"
+    },
+    "requiredTrophies": 0,
+    "warFrequency": "always",
+    "warWinStreak": 2,
+    "warWins": 15,
+    "warTies": 0,
+    "warLosses": 20,
+    "isWarLogPublic": true,
+    "warLeague": {
+        "id": 48000012,
+        "name": "Crystal League I"
+    },
+    "members": 4,
+    "memberList": [
+        {
+            "tag": "#82CYCYRY8",
+            "name": "Vitrex",
+            "role": "Elder",
+            "townHallLevel": 11,
+            "expLevel": 136,
+            "league": {
+                "id": 29000000,
+                "name": "Unranked",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+                    "medium": null
+                }
+            },
+            "trophies": 1769,
+            "builderBaseTrophies": 2299,
+            "clanRank": 1,
+            "previousClanRank": 1,
+            "donations": 0,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": []
+            },
+            "builderBaseLeague": {
+                "id": 44000021,
+                "name": "Brass League II"
+            }
+        },
+        {
+            "tag": "#YVGLJUUC",
+            "name": "Sweet Tweety",
+            "role": "Elder",
+            "townHallLevel": 11,
+            "expLevel": 135,
+            "league": {
+                "id": 29000000,
+                "name": "Unranked",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+                    "medium": null
+                }
+            },
+            "trophies": 1661,
+            "builderBaseTrophies": 2255,
+            "clanRank": 2,
+            "previousClanRank": 2,
+            "donations": 0,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": []
+            },
+            "builderBaseLeague": {
+                "id": 44000021,
+                "name": "Brass League II"
+            }
+        },
+        {
+            "tag": "#8QUV9R9Q8",
+            "name": "Engelchen *-*",
+            "role": "Elder",
+            "townHallLevel": 11,
+            "expLevel": 134,
+            "league": {
+                "id": 29000000,
+                "name": "Unranked",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+                    "medium": null
+                }
+            },
+            "trophies": 1648,
+            "builderBaseTrophies": 2268,
+            "clanRank": 3,
+            "previousClanRank": 3,
+            "donations": 0,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": []
+            },
+            "builderBaseLeague": {
+                "id": 44000021,
+                "name": "Brass League II"
+            }
+        },
+        {
+            "tag": "#RUJ00LYR",
+            "name": "Hiruko™",
+            "role": "Leader",
+            "townHallLevel": 12,
+            "expLevel": 146,
+            "league": {
+                "id": 29000000,
+                "name": "Unranked",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+                    "medium": null
+                }
+            },
+            "trophies": 1048,
+            "builderBaseTrophies": 1090,
+            "clanRank": 4,
+            "previousClanRank": 4,
+            "donations": 0,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000001
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000049
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000014
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000063
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000010,
+                "name": "Stone League V"
+            }
+        }
+    ]
+}

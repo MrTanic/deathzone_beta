@@ -1,0 +1,29 @@
+{
+    "einleitung": "Hier findest du alle wichtigen Informationen und Befehle für die DeathZone Community.",
+    "optionen": [
+        {
+            "name": "Clan Links",
+            "beschreibung": "Hier findest du alle Commands für Clan Links usw.",
+            "commands": [
+                {
+                    "name": "/clan familie",
+                    "beschreibung": "```Erstellt ein Embed mit allen Clan Links der DeathZone Community.```"
+                },
+                {
+                    "name": "/clan info",
+                    "beschreibung": "```Erstellt ein Embed für einen bestimmten Clan der DeathZone Community. Mit allgemeinen Informationen, profil und Clash of Stats Button.```"
+                }
+            ]
+        },
+        {
+            "name": "Legend",
+            "beschreibung": "Hier sind alle Commands für die Legend Spieler die vom DeathZone Bot getrackt werden.",
+            "commands": [
+                {
+                    "name": "/legend day",
+                    "beschreibung": "```gibt die Angriffe und Verteidigungen eines legenden Tages wieder.\nParameter Datum ist optional und muss im folgenden Format angegeben werden.\nYYYY-MM-DD```"
+                }
+            ]
+        }
+    ]
+}

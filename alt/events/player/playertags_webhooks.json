@@ -1,0 +1,39 @@
+{
+    "configs": [
+        {
+            "webhook_url": "https://discord.com/api/webhooks/1251192491315826792/wEkZbcpPwY9IC4je5WZGElIItlNvlUXyUTovOnBgRjRPZ9VOi7rC_iYwsHiAeOmQAG2J",
+            "player_tags": [
+                "#2R989JJ98",
+                "#9LL82P00R",
+                "#2QUQ0JY0",
+                "#2CGQVJQ9",
+                "#200LC0JG8"
+            ]
+        },
+        {
+            "webhook_url": "https://discord.com/api/webhooks/1251585922311655434/0reywnKPP7eAfMmg8wyU1B-q5EZFRa--KxLOCn8fmaBYHpt3F3W9dIiCSN-PYjYI3H2C",
+            "player_tags": [
+                "#LVJJPQJQR",
+                "#C80G0GG9",
+                "#PPJ8VQG9",
+                "#LGP9RY0Y8",
+                "#22VV098YR",
+                "#P9U9998C",
+                "#JJQQRVRL",
+                "#R82LP9VY",
+                "#88U2QPQV8",
+                "#9VYJLVQJ8",
+                "#GGUGG2CJ",
+                "#289LVRLPP",
+                "#RV20LG0P",
+                "#L9QJPPUG",
+                "#LV0VC022",
+                "#8LJ099P80",
+                "#GJUPUG82",
+                "#8YCRPVU9J",
+                "#GQGJG98",
+                "#YGVG8C2PO"
+            ]
+        }
+    ]
+}

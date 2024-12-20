@@ -1,0 +1,255 @@
+{
+    "name": "lala",
+    "tag": "#C80G0GG9",
+    "townhall": 16,
+    "legends": {
+        "2024-06-24": {
+            "num_attacks": 3,
+            "attacks": [
+                22,
+                30,
+                28
+            ],
+            "new_attacks": [
+                {
+                    "change": 22,
+                    "time": 1719224830,
+                    "trophies": 5022
+                },
+                {
+                    "change": 30,
+                    "time": 1719229214,
+                    "trophies": 5052
+                },
+                {
+                    "change": 28,
+                    "time": 1719231573,
+                    "trophies": 5080
+                }
+            ],
+            "defenses": [
+                21,
+                10,
+                40,
+                27,
+                30
+            ],
+            "new_defenses": [
+                {
+                    "change": 21,
+                    "time": 1719235924,
+                    "trophies": 5059
+                },
+                {
+                    "change": 10,
+                    "time": 1719239088,
+                    "trophies": 5049
+                },
+                {
+                    "change": 40,
+                    "time": 1719278463,
+                    "trophies": 5009
+                },
+                {
+                    "change": 27,
+                    "time": 1719284005,
+                    "trophies": 4982
+                },
+                {
+                    "change": 30,
+                    "time": 1719284228,
+                    "trophies": 4952
+                }
+            ],
+            "current_trophies": 4952,
+            "total_attacks": 80,
+            "total_defenses": 128
+        },
+        "2024-06-25": {
+            "defenses": [
+                22,
+                30,
+                32
+            ],
+            "new_defenses": [
+                {
+                    "change": 22,
+                    "time": 1719308038,
+                    "trophies": 4930
+                },
+                {
+                    "change": 30,
+                    "time": 1719313559,
+                    "trophies": 4900
+                },
+                {
+                    "change": 32,
+                    "time": 1719318408,
+                    "trophies": 4912
+                }
+            ],
+            "num_attacks": 2,
+            "attacks": [
+                40,
+                26
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1719316861,
+                    "trophies": 4918
+                },
+                {
+                    "change": 26,
+                    "time": 1719317083,
+                    "trophies": 4944
+                }
+            ],
+            "current_trophies": 4912,
+            "total_attacks": 66,
+            "total_defenses": 84
+        },
+        "2024-06-26": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-06-27": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-06-28": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-06-29": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-06-30": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-01": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-02": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-03": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-04": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-05": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-06": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-07": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-08": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-09": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-10": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-11": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-12": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-13": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-14": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-15": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-16": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-17": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-18": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-19": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-20": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-21": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-22": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-23": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-24": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-25": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-26": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-27": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-28": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        }
+    },
+    "rankings": {
+        "tag": "#C80G0GG9",
+        "builder_local_rank": null,
+        "country_code": "DE",
+        "country_name": "Germany",
+        "global_rank": null,
+        "local_rank": null,
+        "builder_global_rank": null
+    },
+    "streak": 0
+}

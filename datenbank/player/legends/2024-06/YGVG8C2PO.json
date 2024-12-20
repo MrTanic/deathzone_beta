@@ -1,0 +1,3750 @@
+{
+    "name": "\u26a1MaxiKing\u26a1",
+    "tag": "#YGVG8C2P0",
+    "townhall": 16,
+    "legends": {
+        "2024-05-27": {},
+        "2024-05-28": {},
+        "2024-05-29": {},
+        "2024-05-30": {},
+        "2024-05-31": {},
+        "2024-06-01": {},
+        "2024-06-02": {},
+        "2024-06-03": {},
+        "2024-06-04": {},
+        "2024-06-05": {},
+        "2024-06-06": {},
+        "2024-06-07": {},
+        "2024-06-08": {},
+        "2024-06-09": {},
+        "2024-06-10": {},
+        "2024-06-11": {},
+        "2024-06-12": {},
+        "2024-06-13": {
+            "defenses": [
+                8,
+                0,
+                16,
+                40
+            ],
+            "new_defenses": [
+                {
+                    "change": 8,
+                    "time": 1718274858,
+                    "trophies": 5004
+                },
+                {
+                    "change": 0,
+                    "time": 1718293933,
+                    "trophies": 5244
+                },
+                {
+                    "change": 16,
+                    "time": 1718298843,
+                    "trophies": 5268
+                },
+                {
+                    "change": 40,
+                    "time": 1718318872,
+                    "trophies": 5228
+                }
+            ],
+            "num_attacks": 7,
+            "attacks": [
+                40,
+                40,
+                40,
+                40,
+                40,
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1718287692,
+                    "trophies": 5084,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718287692,
+                    "trophies": 5084,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718289224,
+                    "trophies": 5124,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718290785,
+                    "trophies": 5164,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718292593,
+                    "trophies": 5204,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718293933,
+                    "trophies": 5244,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718295247,
+                    "trophies": 5284,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "2024-06-14": {
+            "defenses": [
+                19,
+                21,
+                16,
+                22,
+                13,
+                18,
+                29,
+                17
+            ],
+            "new_defenses": [
+                {
+                    "change": 19,
+                    "time": 1718342986,
+                    "trophies": 5209
+                },
+                {
+                    "change": 21,
+                    "time": 1718352789,
+                    "trophies": 5293
+                },
+                {
+                    "change": 16,
+                    "time": 1718353017,
+                    "trophies": 5277
+                },
+                {
+                    "change": 22,
+                    "time": 1718356416,
+                    "trophies": 5255
+                },
+                {
+                    "change": 13,
+                    "time": 1718370710,
+                    "trophies": 5310
+                },
+                {
+                    "change": 18,
+                    "time": 1718374091,
+                    "trophies": 5292
+                },
+                {
+                    "change": 29,
+                    "time": 1718381615,
+                    "trophies": 5263
+                },
+                {
+                    "change": 17,
+                    "time": 1718401783,
+                    "trophies": 5344
+                }
+            ],
+            "num_attacks": 8,
+            "attacks": [
+                40,
+                25,
+                40,
+                40,
+                28,
+                27,
+                31,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1718346415,
+                    "trophies": 5249,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 25,
+                    "time": 1718346874,
+                    "trophies": 5274,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718348497,
+                    "trophies": 5314,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718357117,
+                    "trophies": 5295,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 28,
+                    "time": 1718359628,
+                    "trophies": 5323,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 27,
+                    "time": 1718385925,
+                    "trophies": 5290,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 31,
+                    "time": 1718387309,
+                    "trophies": 5321,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718388218,
+                    "trophies": 5361,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "2024-06-15": {
+            "num_attacks": 8,
+            "attacks": [
+                27,
+                40,
+                40,
+                40,
+                40,
+                40,
+                23,
+                30
+            ],
+            "new_attacks": [
+                {
+                    "change": 27,
+                    "time": 1718437024,
+                    "trophies": 5371,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 22
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718450807,
+                    "trophies": 5388,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 23
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718460438,
+                    "trophies": 5428,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 23
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718468258,
+                    "trophies": 5441,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 23
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718468952,
+                    "trophies": 5481,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 23
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718472149,
+                    "trophies": 5521,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 23
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 23,
+                    "time": 1718472373,
+                    "trophies": 5544,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 23
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 30,
+                    "time": 1718477664,
+                    "trophies": 5574,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 23
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                }
+            ],
+            "defenses": [
+                23,
+                27,
+                25,
+                26,
+                24,
+                19
+            ],
+            "new_defenses": [
+                {
+                    "change": 23,
+                    "time": 1718446686,
+                    "trophies": 5348
+                },
+                {
+                    "change": 27,
+                    "time": 1718463892,
+                    "trophies": 5401
+                },
+                {
+                    "change": 25,
+                    "time": 1718478802,
+                    "trophies": 5549
+                },
+                {
+                    "change": 26,
+                    "time": 1718482036,
+                    "trophies": 5523
+                },
+                {
+                    "change": 24,
+                    "time": 1718485927,
+                    "trophies": 5499
+                },
+                {
+                    "change": 19,
+                    "time": 1718503937,
+                    "trophies": 5480
+                }
+            ]
+        },
+        "2024-06-16": {
+            "defenses": [
+                27,
+                29,
+                21,
+                32,
+                25,
+                25,
+                40
+            ],
+            "new_defenses": [
+                {
+                    "change": 27,
+                    "time": 1718515260,
+                    "trophies": 5453
+                },
+                {
+                    "change": 29,
+                    "time": 1718519245,
+                    "trophies": 5424
+                },
+                {
+                    "change": 21,
+                    "time": 1718551533,
+                    "trophies": 5523
+                },
+                {
+                    "change": 32,
+                    "time": 1718557169,
+                    "trophies": 5491
+                },
+                {
+                    "change": 25,
+                    "time": 1718559752,
+                    "trophies": 5466
+                },
+                {
+                    "change": 25,
+                    "time": 1718566478,
+                    "trophies": 5521
+                },
+                {
+                    "change": 40,
+                    "time": 1718575626,
+                    "trophies": 5561
+                }
+            ],
+            "num_attacks": 8,
+            "attacks": [
+                28,
+                31,
+                40,
+                21,
+                40,
+                40,
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 28,
+                    "time": 1718520189,
+                    "trophies": 5452,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 23
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 31,
+                    "time": 1718521125,
+                    "trophies": 5483,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 23
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718523694,
+                    "trophies": 5523,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 23
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 21,
+                    "time": 1718526044,
+                    "trophies": 5544,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 23
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718560447,
+                    "trophies": 5506,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 23
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718562537,
+                    "trophies": 5546,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 23
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718569962,
+                    "trophies": 5561,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718570920,
+                    "trophies": 5601,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "2024-06-17": {
+            "defenses": [
+                21,
+                28,
+                27,
+                55,
+                32,
+                31
+            ],
+            "new_defenses": [
+                {
+                    "change": 21,
+                    "time": 1718603646,
+                    "trophies": 5540
+                },
+                {
+                    "change": 28,
+                    "time": 1718618240,
+                    "trophies": 5566
+                },
+                {
+                    "change": 27,
+                    "time": 1718622328,
+                    "trophies": 5768
+                },
+                {
+                    "change": 55,
+                    "time": 1718635443,
+                    "trophies": 5713
+                },
+                {
+                    "change": 32,
+                    "time": 1718642009,
+                    "trophies": 5681
+                },
+                {
+                    "change": 31,
+                    "time": 1718652767,
+                    "trophies": 5650
+                }
+            ],
+            "num_attacks": 8,
+            "attacks": [
+                14,
+                40,
+                40,
+                40,
+                29,
+                40,
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 14,
+                    "time": 1718614654,
+                    "trophies": 5554,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718615133,
+                    "trophies": 5594,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718619935,
+                    "trophies": 5646,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718619935,
+                    "trophies": 5646,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 29,
+                    "time": 1718620652,
+                    "trophies": 5675,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718620892,
+                    "trophies": 5715,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718621613,
+                    "trophies": 5795,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718621613,
+                    "trophies": 5795,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "2024-06-18": {
+            "defenses": [
+                31,
+                27,
+                28,
+                24,
+                27,
+                30,
+                30
+            ],
+            "new_defenses": [
+                {
+                    "change": 31,
+                    "time": 1718694775,
+                    "trophies": 5619
+                },
+                {
+                    "change": 27,
+                    "time": 1718695245,
+                    "trophies": 5592
+                },
+                {
+                    "change": 28,
+                    "time": 1718717775,
+                    "trophies": 5564
+                },
+                {
+                    "change": 24,
+                    "time": 1718719713,
+                    "trophies": 5540
+                },
+                {
+                    "change": 27,
+                    "time": 1718725763,
+                    "trophies": 5513
+                },
+                {
+                    "change": 30,
+                    "time": 1718732508,
+                    "trophies": 5483
+                },
+                {
+                    "change": 30,
+                    "time": 1718732989,
+                    "trophies": 5453
+                }
+            ],
+            "num_attacks": 8,
+            "attacks": [
+                38,
+                28,
+                108,
+                28,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 38,
+                    "time": 1718734915,
+                    "trophies": 5491,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 28,
+                    "time": 1718735693,
+                    "trophies": 5519,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 108,
+                    "time": 1718737164,
+                    "trophies": 5627,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 28,
+                    "time": 1718737646,
+                    "trophies": 5655,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718738620,
+                    "trophies": 5695,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "2024-06-19": {
+            "defenses": [
+                40,
+                28,
+                32,
+                32,
+                40,
+                30,
+                11,
+                15
+            ],
+            "new_defenses": [
+                {
+                    "change": 40,
+                    "time": 1718775323,
+                    "trophies": 5655
+                },
+                {
+                    "change": 28,
+                    "time": 1718790727,
+                    "trophies": 5776
+                },
+                {
+                    "change": 32,
+                    "time": 1718791490,
+                    "trophies": 5744
+                },
+                {
+                    "change": 32,
+                    "time": 1718800828,
+                    "trophies": 5712
+                },
+                {
+                    "change": 40,
+                    "time": 1718806008,
+                    "trophies": 5672
+                },
+                {
+                    "change": 30,
+                    "time": 1718829905,
+                    "trophies": 5717
+                },
+                {
+                    "change": 11,
+                    "time": 1718836497,
+                    "trophies": 5706
+                },
+                {
+                    "change": 15,
+                    "time": 1718843082,
+                    "trophies": 5691
+                }
+            ],
+            "num_attacks": 8,
+            "attacks": [
+                26,
+                40,
+                25,
+                58,
+                28,
+                29,
+                18
+            ],
+            "new_attacks": [
+                {
+                    "change": 26,
+                    "time": 1718787298,
+                    "trophies": 5681,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718788023,
+                    "trophies": 5721,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 25,
+                    "time": 1718788998,
+                    "trophies": 5746,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 58,
+                    "time": 1718790000,
+                    "trophies": 5804,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 28,
+                    "time": 1718821314,
+                    "trophies": 5700,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 29,
+                    "time": 1718822783,
+                    "trophies": 5729,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 18,
+                    "time": 1718823763,
+                    "trophies": 5747,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "2024-06-20": {
+            "defenses": [
+                31,
+                31,
+                32,
+                26,
+                40,
+                40
+            ],
+            "new_defenses": [
+                {
+                    "change": 31,
+                    "time": 1718868969,
+                    "trophies": 5660
+                },
+                {
+                    "change": 31,
+                    "time": 1718874888,
+                    "trophies": 5661
+                },
+                {
+                    "change": 32,
+                    "time": 1718902030,
+                    "trophies": 5802
+                },
+                {
+                    "change": 26,
+                    "time": 1718926350,
+                    "trophies": 5776
+                },
+                {
+                    "change": 40,
+                    "time": 1718934632,
+                    "trophies": 5736
+                },
+                {
+                    "change": 40,
+                    "time": 1718944374,
+                    "trophies": 5696
+                }
+            ],
+            "num_attacks": 8,
+            "attacks": [
+                13,
+                19,
+                28,
+                40,
+                40,
+                14,
+                23,
+                28
+            ],
+            "new_attacks": [
+                {
+                    "change": 13,
+                    "time": 1718871704,
+                    "trophies": 5673,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 19,
+                    "time": 1718872187,
+                    "trophies": 5692,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 28,
+                    "time": 1718875130,
+                    "trophies": 5689,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718876349,
+                    "trophies": 5729,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718876838,
+                    "trophies": 5769,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 14,
+                    "time": 1718877330,
+                    "trophies": 5783,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 23,
+                    "time": 1718877821,
+                    "trophies": 5806,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 28,
+                    "time": 1718879053,
+                    "trophies": 5834,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "2024-06-21": {
+            "defenses": [
+                40,
+                30,
+                14,
+                40,
+                40,
+                40,
+                40,
+                40
+            ],
+            "new_defenses": [
+                {
+                    "change": 40,
+                    "time": 1718948920,
+                    "trophies": 5656
+                },
+                {
+                    "change": 30,
+                    "time": 1718957037,
+                    "trophies": 5686
+                },
+                {
+                    "change": 14,
+                    "time": 1718967686,
+                    "trophies": 5807
+                },
+                {
+                    "change": 40,
+                    "time": 1718968705,
+                    "trophies": 5767
+                },
+                {
+                    "change": 40,
+                    "time": 1718972761,
+                    "trophies": 5727
+                },
+                {
+                    "change": 40,
+                    "time": 1718985316,
+                    "trophies": 5749
+                },
+                {
+                    "change": 40,
+                    "time": 1718985823,
+                    "trophies": 5709
+                },
+                {
+                    "change": 40,
+                    "time": 1719029090,
+                    "trophies": 5669
+                }
+            ],
+            "num_attacks": 8,
+            "attacks": [
+                28,
+                32,
+                40,
+                26,
+                29,
+                40,
+                62
+            ],
+            "new_attacks": [
+                {
+                    "change": 28,
+                    "time": 1718951700,
+                    "trophies": 5684,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 32,
+                    "time": 1718952211,
+                    "trophies": 5716,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718958300,
+                    "trophies": 5726,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 26,
+                    "time": 1718958552,
+                    "trophies": 5752,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 29,
+                    "time": 1718965392,
+                    "trophies": 5781,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1718965636,
+                    "trophies": 5821,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 62,
+                    "time": 1718982555,
+                    "trophies": 5789,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "2024-06-22": {
+            "defenses": [
+                40,
+                40,
+                25,
+                14,
+                12,
+                40,
+                24
+            ],
+            "new_defenses": [
+                {
+                    "change": 40,
+                    "time": 1719064610,
+                    "trophies": 5641
+                },
+                {
+                    "change": 40,
+                    "time": 1719082332,
+                    "trophies": 5601
+                },
+                {
+                    "change": 25,
+                    "time": 1719086294,
+                    "trophies": 5576
+                },
+                {
+                    "change": 14,
+                    "time": 1719089646,
+                    "trophies": 5562
+                },
+                {
+                    "change": 12,
+                    "time": 1719112525,
+                    "trophies": 5695
+                },
+                {
+                    "change": 40,
+                    "time": 1719118382,
+                    "trophies": 5655
+                },
+                {
+                    "change": 24,
+                    "time": 1719118621,
+                    "trophies": 5631
+                }
+            ],
+            "num_attacks": 6,
+            "attacks": [
+                40,
+                28,
+                24,
+                13,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1719100011,
+                    "trophies": 5602,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 28,
+                    "time": 1719102053,
+                    "trophies": 5630,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 24,
+                    "time": 1719103293,
+                    "trophies": 5654,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 13,
+                    "time": 1719103990,
+                    "trophies": 5667,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1719105579,
+                    "trophies": 5707,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "2024-06-23": {
+            "defenses": [
+                40,
+                13,
+                40,
+                14,
+                15,
+                0
+            ],
+            "new_defenses": [
+                {
+                    "change": 40,
+                    "time": 1719129194,
+                    "trophies": 5591
+                },
+                {
+                    "change": 13,
+                    "time": 1719149403,
+                    "trophies": 5578
+                },
+                {
+                    "change": 40,
+                    "time": 1719163535,
+                    "trophies": 5538
+                },
+                {
+                    "change": 14,
+                    "time": 1719164017,
+                    "trophies": 5524
+                },
+                {
+                    "change": 15,
+                    "time": 1719166655,
+                    "trophies": 5509
+                },
+                {
+                    "change": 0,
+                    "time": 1719168386,
+                    "trophies": 5561
+                }
+            ],
+            "num_attacks": 8,
+            "attacks": [
+                27,
+                25,
+                40,
+                40,
+                40,
+                40,
+                40,
+                12
+            ],
+            "new_attacks": [
+                {
+                    "change": 27,
+                    "time": 1719167675,
+                    "trophies": 5536,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 25,
+                    "time": 1719168386,
+                    "trophies": 5561,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1719169340,
+                    "trophies": 5601,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1719170536,
+                    "trophies": 5641,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1719171784,
+                    "trophies": 5681,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1719172031,
+                    "trophies": 5721,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1719176855,
+                    "trophies": 5761,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 12,
+                    "time": 1719179026,
+                    "trophies": 5773,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 24
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 24
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "rankings": {
+        "country_code": null,
+        "country_name": null,
+        "local_rank": null,
+        "global_rank": null
+    },
+    "streak": 0
+}

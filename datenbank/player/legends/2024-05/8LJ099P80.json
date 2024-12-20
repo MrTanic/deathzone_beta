@@ -1,0 +1,188 @@
+{
+    "name": "\u2022DZ\u269c\ufe0fthe\u2765Tobi\u2122\ufe0f",
+    "tag": "#8LJ099P80",
+    "townhall": 16,
+    "legends": {
+        "2024-04-29": {
+            "num_attacks": -52,
+            "attacks": [
+                75
+            ],
+            "new_attacks": [
+                {
+                    "change": 75,
+                    "time": 1714427949,
+                    "trophies": 5007,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                }
+            ],
+            "defenses": [
+                10
+            ],
+            "new_defenses": [
+                {
+                    "change": 10,
+                    "time": 1714430551,
+                    "trophies": 4997
+                }
+            ]
+        },
+        "2024-04-30": {
+            "defenses": [
+                15,
+                22,
+                22,
+                0,
+                10,
+                21
+            ],
+            "new_defenses": [
+                {
+                    "change": 15,
+                    "time": 1714459090,
+                    "trophies": 4982
+                },
+                {
+                    "change": 22,
+                    "time": 1714467292,
+                    "trophies": 4960
+                },
+                {
+                    "change": 22,
+                    "time": 1714469994,
+                    "trophies": 4938
+                },
+                {
+                    "change": 0,
+                    "time": 1714469994,
+                    "trophies": 4938
+                },
+                {
+                    "change": 10,
+                    "time": 1714477330,
+                    "trophies": 4928
+                },
+                {
+                    "change": 21,
+                    "time": 1714486685,
+                    "trophies": 4907
+                }
+            ]
+        },
+        "2024-05-01": {
+            "num_attacks": 1,
+            "attacks": [
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1714567624,
+                    "trophies": 4937,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Invisibility Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Royal Gem",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "2024-05-02": {},
+        "2024-05-03": {},
+        "2024-05-04": {},
+        "2024-05-05": {},
+        "2024-05-06": {},
+        "2024-05-07": {},
+        "2024-05-08": {},
+        "2024-05-09": {},
+        "2024-05-10": {},
+        "2024-05-11": {},
+        "2024-05-12": {},
+        "2024-05-13": {},
+        "2024-05-14": {},
+        "2024-05-15": {},
+        "2024-05-16": {},
+        "2024-05-17": {},
+        "2024-05-18": {},
+        "2024-05-19": {},
+        "2024-05-20": {},
+        "2024-05-21": {},
+        "2024-05-22": {},
+        "2024-05-23": {},
+        "2024-05-24": {},
+        "2024-05-25": {},
+        "2024-05-26": {}
+    },
+    "rankings": {
+        "tag": "#8LJ099P80",
+        "country_code": "DE",
+        "country_name": "Germany",
+        "local_rank": null,
+        "global_rank": null,
+        "builder_global_rank": null,
+        "builder_local_rank": null
+    },
+    "streak": 0
+}

@@ -1,0 +1,931 @@
+{
+    "name": "tobi",
+    "tag": "#GQGJG98",
+    "townhall": 16,
+    "legends": {
+        "2024-06-24": {
+            "num_attacks": 3,
+            "attacks": [
+                1,
+                69,
+                3
+            ],
+            "new_attacks": [
+                {
+                    "change": 1,
+                    "time": 1719228923,
+                    "trophies": 5001,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 69,
+                    "time": 1719257217,
+                    "trophies": 5043,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 3,
+                    "time": 1719264006,
+                    "trophies": 5046,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                }
+            ],
+            "defenses": [
+                27
+            ],
+            "new_defenses": [
+                {
+                    "change": 27,
+                    "time": 1719239232,
+                    "trophies": 4974
+                }
+            ]
+        },
+        "2024-06-25": {
+            "defenses": [
+                13,
+                0,
+                23,
+                25,
+                11,
+                19
+            ],
+            "new_defenses": [
+                {
+                    "change": 13,
+                    "time": 1719293428,
+                    "trophies": 5033
+                },
+                {
+                    "change": 0,
+                    "time": 1719302999,
+                    "trophies": 5056
+                },
+                {
+                    "change": 23,
+                    "time": 1719309795,
+                    "trophies": 5033
+                },
+                {
+                    "change": 25,
+                    "time": 1719334894,
+                    "trophies": 5088
+                },
+                {
+                    "change": 11,
+                    "time": 1719347493,
+                    "trophies": 5077
+                },
+                {
+                    "change": 19,
+                    "time": 1719351992,
+                    "trophies": 5128
+                }
+            ],
+            "num_attacks": 5,
+            "attacks": [
+                23,
+                40,
+                40,
+                70
+            ],
+            "new_attacks": [
+                {
+                    "change": 23,
+                    "time": 1719302999,
+                    "trophies": 5056,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1719318633,
+                    "trophies": 5113,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1719318633,
+                    "trophies": 5113,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 70,
+                    "time": 1719350878,
+                    "trophies": 5147,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "2024-06-26": {
+            "defenses": [
+                40,
+                14
+            ],
+            "new_defenses": [
+                {
+                    "change": 40,
+                    "time": 1719456177,
+                    "trophies": 5032
+                },
+                {
+                    "change": 14,
+                    "time": 1719461314,
+                    "trophies": 5018
+                }
+            ]
+        },
+        "2024-06-27": {
+            "defenses": [
+                26,
+                0,
+                13
+            ],
+            "new_defenses": [
+                {
+                    "change": 26,
+                    "time": 1719508418,
+                    "trophies": 4992
+                },
+                {
+                    "change": 0,
+                    "time": 1719508418,
+                    "trophies": 4992
+                },
+                {
+                    "change": 13,
+                    "time": 1719524789,
+                    "trophies": 5008
+                }
+            ],
+            "num_attacks": 1,
+            "attacks": [
+                29
+            ],
+            "new_attacks": [
+                {
+                    "change": 29,
+                    "time": 1719523298,
+                    "trophies": 5021,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "2024-06-28": {
+            "defenses": [
+                18,
+                29,
+                11,
+                23,
+                12,
+                24
+            ],
+            "new_defenses": [
+                {
+                    "change": 18,
+                    "time": 1719561342,
+                    "trophies": 4990
+                },
+                {
+                    "change": 29,
+                    "time": 1719568241,
+                    "trophies": 4961
+                },
+                {
+                    "change": 11,
+                    "time": 1719569284,
+                    "trophies": 4950
+                },
+                {
+                    "change": 23,
+                    "time": 1719579020,
+                    "trophies": 4967
+                },
+                {
+                    "change": 12,
+                    "time": 1719582203,
+                    "trophies": 4955
+                },
+                {
+                    "change": 24,
+                    "time": 1719616029,
+                    "trophies": 4931
+                }
+            ],
+            "num_attacks": 1,
+            "attacks": [
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1719571404,
+                    "trophies": 4990,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "2024-06-29": {
+            "defenses": [
+                18,
+                0,
+                26,
+                32,
+                15,
+                30,
+                30,
+                40
+            ],
+            "new_defenses": [
+                {
+                    "change": 18,
+                    "time": 1719650143,
+                    "trophies": 4913
+                },
+                {
+                    "change": 0,
+                    "time": 1719650143,
+                    "trophies": 4913
+                },
+                {
+                    "change": 26,
+                    "time": 1719652745,
+                    "trophies": 4967
+                },
+                {
+                    "change": 32,
+                    "time": 1719660112,
+                    "trophies": 4935
+                },
+                {
+                    "change": 15,
+                    "time": 1719660322,
+                    "trophies": 4920
+                },
+                {
+                    "change": 30,
+                    "time": 1719695018,
+                    "trophies": 4970
+                },
+                {
+                    "change": 30,
+                    "time": 1719695449,
+                    "trophies": 4940
+                },
+                {
+                    "change": 40,
+                    "time": 1719717789,
+                    "trophies": 4940
+                }
+            ],
+            "num_attacks": 5,
+            "attacks": [
+                40,
+                40,
+                40,
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1719651440,
+                    "trophies": 4993,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1719651440,
+                    "trophies": 4993,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1719685691,
+                    "trophies": 5000,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1719685691,
+                    "trophies": 5000,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1719703720,
+                    "trophies": 4980,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "2024-06-30": {
+            "defenses": [
+                25,
+                0,
+                11
+            ],
+            "new_defenses": [
+                {
+                    "change": 25,
+                    "time": 1719727905,
+                    "trophies": 4915
+                },
+                {
+                    "change": 0,
+                    "time": 1719772278,
+                    "trophies": 4995
+                },
+                {
+                    "change": 11,
+                    "time": 1719802573,
+                    "trophies": 4984
+                }
+            ],
+            "num_attacks": 2,
+            "attacks": [
+                40,
+                40
+            ],
+            "new_attacks": [
+                {
+                    "change": 40,
+                    "time": 1719772278,
+                    "trophies": 4995,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                },
+                {
+                    "change": 40,
+                    "time": 1719772278,
+                    "trophies": 4995,
+                    "hero_gear": [
+                        {
+                            "name": "Giant Gauntlet",
+                            "level": 27
+                        },
+                        {
+                            "name": "Rage Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healer Puppet",
+                            "level": 18
+                        },
+                        {
+                            "name": "Frozen Arrow",
+                            "level": 27
+                        },
+                        {
+                            "name": "Eternal Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Healing Tome",
+                            "level": 18
+                        },
+                        {
+                            "name": "Haste Vial",
+                            "level": 18
+                        },
+                        {
+                            "name": "Hog Rider Puppet",
+                            "level": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "2024-07-01": {},
+        "2024-07-02": {},
+        "2024-07-03": {},
+        "2024-07-04": {},
+        "2024-07-05": {},
+        "2024-07-06": {},
+        "2024-07-07": {},
+        "2024-07-08": {},
+        "2024-07-09": {},
+        "2024-07-10": {},
+        "2024-07-11": {},
+        "2024-07-12": {},
+        "2024-07-13": {},
+        "2024-07-14": {},
+        "2024-07-15": {},
+        "2024-07-16": {},
+        "2024-07-17": {},
+        "2024-07-18": {},
+        "2024-07-19": {},
+        "2024-07-20": {},
+        "2024-07-21": {},
+        "2024-07-22": {},
+        "2024-07-23": {},
+        "2024-07-24": {},
+        "2024-07-25": {},
+        "2024-07-26": {},
+        "2024-07-27": {},
+        "2024-07-28": {}
+    },
+    "rankings": {
+        "tag": "#GQGJG98",
+        "country_code": "DE",
+        "country_name": "Germany",
+        "local_rank": null,
+        "global_rank": 634545,
+        "builder_global_rank": null,
+        "builder_local_rank": null
+    },
+    "streak": 0
+}

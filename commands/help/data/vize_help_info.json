@@ -1,0 +1,240 @@
+{
+    "einleitung": "Jeder Clan basierte Command kann nur von Vize des jeweiligen Clans ausgeführt werden.\nParameter benötigt fast jeder befehl und müssen angeben werden {optionale Parameter} müssen nicht angegeben werden. Beachte ihren voreingestellten Wert.",
+    "optionen": [
+        {
+            "name": "Link",
+            "beschreibung": "Verwalten der Verlinkung zwischen Player und Discord User",
+            "commands": [
+                {
+                    "name": "/link create",
+                    "beschreibung": "```Verknüpft einen Clash of Clans Account mit einem Discord User.```"
+                },
+                {
+                    "name": "/link list",
+                    "beschreibung": "```Zeigt alle verlinkten Accounts an die im Clan sind.```"
+                },
+                {
+                    "name": "/link delete",
+                    "beschreibung": "```Entfernt ein Spieler Account von einem Discord User.```"
+                }
+            ]
+        },
+        {
+            "name": "DeathZone",
+            "beschreibung": "Alle Commands für CW Umfragen von DeathZone.\n**Berechtigung: Deathzone Vize**",
+            "commands": [
+                {
+                    "name": "/dz announcement",
+                    "beschreibung": "```Sendet das Ankündigungs Embed für die CW Umfrage.```"
+                },
+                {
+                    "name": "/dz auswertung",
+                    "beschreibung": "```Speichert die Reaktionen für die CW Umfrage und sendet das Auswertungs Embed```"
+                },
+                {
+                    "name": "/dz notify",
+                    "beschreibung": "```Die Accounts die auf die aktuelle Umfrage nicht reagiert haben werden im Clan Kanal gepingt und darauf hingewiesen das sie noch nicht reagiert haben.```"
+                },
+                {
+                    "name": "/dz castle",
+                    "beschreibung": "```Es wird eine Nachricht in den Clan Kanal gesendet die, die Spieler für das befüllen der Clan Burgen zufällig auswählt.```"
+                },
+                {
+                    "name": "/dz istdabei",
+                    "beschreibung": "```Zeigt alle verlinkten Accounts an die im Clan sind und mit ja reagiert haben.```"
+                },
+                {
+                    "name": "/dz monat",
+                    "beschreibung": "```Gibt alle Accounts wieder die im ausgewählten Monat nicht an CW Umfragen reagiert haben.```"
+                },
+                {
+                    "name": "/dz_cwl announcement",
+                    "beschreibung": "```Sendet die CWL Ankündigung manuell.\nStandardmäßig wird die Umfrage am 10 jeden Monats um 20:30 Uhr in den Ankündigungs Kanal gesendet.```"
+                },
+                {
+                    "name": "/dz_cwl auswertung",
+                    "beschreibung": "```Speichert die Reaktionen auf die CWL Umfrage aus und sendet das Embed.```"
+                }
+            ]
+        },
+                {
+            "name": "Academy",
+            "beschreibung": "Alle Commands für CW Umfragen von Academy.\n**Berechtigung: Academy Vize**",
+            "commands": [
+                {
+                    "name": "/ac announcement",
+                    "beschreibung": "```Sendet das Ankündigungs Embed für die CW Umfrage.```"
+                },
+                {
+                    "name": "/ac auswertung",
+                    "beschreibung": "```Speichert die Reaktionen für die CW Umfrage und sendet das Auswertungs Embed```"
+                },
+                {
+                    "name": "/ac notify",
+                    "beschreibung": "```Die Accounts die auf die aktuelle Umfrage nicht reagiert haben werden im Clan Kanal gepingt und darauf hingewiesen das sie noch nicht reagiert haben.```"
+                },
+                {
+                    "name": "/ac castle",
+                    "beschreibung": "```Es wird eine Nachricht in den Clan Kanal gesendet die, die Spieler für das befüllen der Clan Burgen zufällig auswählt.```"
+                },
+                {
+                    "name": "/ac istdabei",
+                    "beschreibung": "```Zeigt alle verlinkten Accounts an die im Clan sind und mit ja reagiert haben.```"
+                },
+                {
+                    "name": "/ac monat",
+                    "beschreibung": "```Gibt alle Accounts wieder die im ausgewählten Monat nicht an CW Umfragen reagiert haben.```"
+                },
+                {
+                    "name": "/ac_cwl announcement",
+                    "beschreibung": "```Sendet die CWL Ankündigung manuell.\nStandardmäßig wird die Umfrage am 20 jeden Monats um 20:30 Uhr in den Ankündigungs Kanal gesendet.```"
+                },
+                {
+                    "name": "/ac_cwl auswertung",
+                    "beschreibung": "```Speichert die Reaktionen auf die CWL Umfrage aus und sendet das Embed.```"
+                }
+            ]
+                },
+        {
+            "name": "Immortality",
+            "beschreibung": "Alle Commands für CW Umfragen von Immortality.\n**Berechtigung: Immortality Vize**",
+            "commands": [
+                {
+                    "name": "/im announcement",
+                    "beschreibung": "```Sendet das Ankündigungs Embed für die CW Umfrage.```"
+                },
+                {
+                    "name": "/im auswertung",
+                    "beschreibung": "```Speichert die Reaktionen für die CW Umfrage und sendet das Auswertungs Embed```"
+                },
+                {
+                    "name": "/im notify",
+                    "beschreibung": "```Die Accounts die auf die aktuelle Umfrage nicht reagiert haben werden im Clan Kanal gepingt und darauf hingewiesen das sie noch nicht reagiert haben.```"
+                },
+                {
+                    "name": "/im castle",
+                    "beschreibung": "```Es wird eine Nachricht in den Clan Kanal gesendet die, die Spieler für das befüllen der Clan Burgen zufällig auswählt.```"
+                },
+                {
+                    "name": "/im istdabei",
+                    "beschreibung": "```Zeigt alle verlinkten Accounts an die im Clan sind und mit ja reagiert haben.```"
+                },
+                {
+                    "name": "/im monat",
+                    "beschreibung": "```Gibt alle Accounts wieder die im ausgewählten Monat nicht an CW Umfragen reagiert haben.```"
+                },
+                {
+                    "name": "/im_cwl announcement",
+                    "beschreibung": "```Sendet die CWL Ankündigung manuell.\nStandardmäßig wird die Umfrage am 24 jeden Monats um 20:30 Uhr in den Ankündigungs Kanal gesendet.```"
+                },
+                {
+                    "name": "/im_cwl auswertung",
+                    "beschreibung": "```Speichert die Reaktionen auf die CWL Umfrage aus und sendet das Embed.```"
+                }
+            ]
+        },
+        {
+            "name": "Utopia",
+            "beschreibung": "Alle Commands für CW Umfragen von Utopia.\n**Berechtigung: Utopia Vize**",
+            "commands": [
+                {
+                    "name": "/ut announcement",
+                    "beschreibung": "```Sendet das Ankündigungs Embed für die CW Umfrage.```"
+                },
+                {
+                    "name": "/ut auswertung",
+                    "beschreibung": "```Speichert die Reaktionen für die CW Umfrage und sendet das Auswertungs Embed```"
+                },
+                {
+                    "name": "/ut notify",
+                    "beschreibung": "```Die Accounts die auf die aktuelle Umfrage nicht reagiert haben werden im Clan Kanal gepingt und darauf hingewiesen das sie noch nicht reagiert haben.```"
+                },
+                {
+                    "name": "/ut castle",
+                    "beschreibung": "```Es wird eine Nachricht in den Clan Kanal gesendet die, die Spieler für das befüllen der Clan Burgen zufällig auswählt.```"
+                },
+                {
+                    "name": "/ut istdabei",
+                    "beschreibung": "```Zeigt alle verlinkten Accounts an die im Clan sind und mit ja reagiert haben.```"
+                },
+                {
+                    "name": "/ut monat",
+                    "beschreibung": "```Gibt alle Accounts wieder die im ausgewählten Monat nicht an CW Umfragen reagiert haben.```"
+                },
+                {
+                    "name": "/ut_cwl announcement",
+                    "beschreibung": "```Sendet die CWL Ankündigung manuell.\nStandardmäßig wird die Umfrage am 24 jeden Monats um 20:30 Uhr in den Ankündigungs Kanal gesendet.```"
+                },
+                {
+                    "name": "/ut_cwl auswertung",
+                    "beschreibung": "```Speichert die Reaktionen auf die CWL Umfrage aus und sendet das Embed.```"
+                }
+            ]
+        },
+        {
+        "name": "Strikes",
+        "beschreibung": "Alle Commands für Strikes.\n**Berechtigung: Vize**",
+            "commands": 
+            [
+                {
+                    "name": "/add_strike",
+                    "beschreibung": "```Fügt einen User einen Strike hinzu.\n2 Strikes = 1 Verwarnung```"
+                },
+                {
+                    "name": "/remove_strike",
+                    "beschreibung": "```Entfernt den ältesten Strike eines Users.```"
+                },
+                {
+                    "name": "/show_warning", 
+                    "beschreibung": "```Zeigt alle Verwarnungen von jedem Usee an.```"
+                }
+            ]
+        },
+        {
+            "name": "CW Reihenfolge",
+            "beschreibung": "Alle Commands für die CW Reihenfolge der Umfrage.",
+            "commands": [
+                {
+                    "name": "1. /announcement",
+                    "beschreibung":
+                    "Senden für eine Clankrieg Ankündigung. Es erscheint ein Parameter für die Nachfrage nach dem Wochentag wann der Cw gestartet werden soll… Abschicken!"
+                },
+                {
+                    "name": "2. /auswertung",
+                    "beschreibung":
+                    "Speichert die Reaktionen für die CW Umfrage und sendet das Auswertungs Embed"
+                },
+                {
+                    "name": "3. /notify",
+                    "beschreibung":
+                    "Die Accounts die auf die aktuelle Unfrage nicht reagiert haben werden im Clan Kanal gepingt und darauf hingewiesen."
+                },
+                {
+                    "name": "4. /auswertung",
+                    "beschreibung":
+                    "Aktualisiert die Reaktionen für die CW Umfrage"
+                },
+                {
+                    "name": "5. /ist dabei",
+                    "beschreibung":
+                    "Zeigt alle verlinkten Accounts an die im Clan sind und mit Ja reagiert haben. Beachte die Füller werden hier nicht aufgeführt."
+                },
+                {
+                    "name": "6. CW Start",
+                    "beschreibung": 
+                    " Um 21 uhr wird der CW gestartet!"
+                },
+                {
+                    "name": "7. /castle",
+                    "beschreibung":
+                    "Es wird eine Nachricht in den Clan Kanal gesendet die, die Spieler für das befüllen der Clan Burgen zufällig auswählt."
+                },
+                {
+                    "name": "8. Ankündigung",
+                    "beschreibung":
+                    "Alte Umfrage löschen und neue Umfrage machen und wieder zu Punkt 1."
+                }
+            ]
+        }
+    ]
+}

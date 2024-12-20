@@ -1,0 +1,174 @@
+{
+    "name": "Steve'O",
+    "tag": "#JJQQRVRL",
+    "townhall": 16,
+    "legends": {
+        "2024-06-24": {
+            "defenses": [
+                64,
+                24
+            ],
+            "new_defenses": [
+                {
+                    "change": 64,
+                    "time": 1719273883,
+                    "trophies": 4936
+                },
+                {
+                    "change": 24,
+                    "time": 1719285351,
+                    "trophies": 4912
+                }
+            ],
+            "current_trophies": 4912,
+            "total_attacks": 0,
+            "total_defenses": 88
+        },
+        "2024-06-25": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-06-26": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-06-27": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-06-28": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-06-29": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-06-30": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-01": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-02": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-03": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-04": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-05": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-06": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-07": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-08": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-09": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-10": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-11": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-12": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-13": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-14": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-15": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-16": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-17": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-18": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-19": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-20": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-21": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-22": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-23": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-24": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-25": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-26": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-27": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        },
+        "2024-07-28": {
+            "total_attacks": 0,
+            "total_defenses": 0
+        }
+    },
+    "rankings": {
+        "tag": "#JJQQRVRL",
+        "country_code": "DE",
+        "country_name": "Germany",
+        "local_rank": null,
+        "global_rank": null,
+        "builder_global_rank": null,
+        "builder_local_rank": null
+    },
+    "streak": 0
+}

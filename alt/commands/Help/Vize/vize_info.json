@@ -1,0 +1,55 @@
+{
+    "Einleitung" : {
+        "Help" : "- Jeder dieser Commands kann nur von Vize Anführern ausgeführt werden\n- Die Clan bassierendn Commands können nur von Vize Anführern des jeweiligen Clans bzw mit der Rolle ausgeführt werden."
+    },
+    "Member": {
+        "show members": "*Zeigt alle Member in der Clan Datei an*\n Parameter:\n-> Clan"
+    },
+    "Link" : {
+        "link coc": "*Verbindet einen CoC Account mit einem Discord User.*\n**Parameter:**\n-> Discord ID\n-> CoC Tag",
+        "link list": "*Zeigt alle verlinkten CoC Accounts an die im Clan sind.*\n**Parameter:**\n-> Clan Tag"
+    },
+    "Strike" : {
+        "add strike": "*Fügt einen Strike hinzu*\n**Parameter:**\n-> Discord ID\n-> Clan Name\n-> Begründung",
+        "show warnings" : "*Zeigt alle Verwarnungen und Strikes eines Members an*\n**Parameter:**\n-> Clan Name",
+            "remove strike" : "*Entfernt einen Strike von einem Member*\n**Parameter:**\n-> Discord ID\n-> Clan Name"
+    },
+    "Kalender" : {
+        "add event" : "*Fügt ein Event hinzu*\n**Parameter:**\n-> Date = DD.MM.YYYY HH:MM\n-> Title = Tittel des Events\n-> Reminder = Wieviele Minuten vor dem Event erinnert werden soll\n-> Ping IDS = Discord IDS die benachrichtigt werden sollen. (Durch komma getrennt)\n**Optional**\n-> Description = Beschreibung des Events",
+        "show events" : "*Zeigt alle bevorstehende Events an*",
+        "edit events" : "*Bearbeitung von einem Event*\n**Parameter:**\n-> Event ID\n**Optional:**\n-> new date = DD MM.YYYY HH:MM\n-> new tittle = Neuer Tittel des Events\n-> new description = Neue Beschreibung des Events\n-> new reminder = Neue erinnerung in Minuten vor dem Event\n-> new ping ids = Discord IDS die erwähnt werden sollen. (Durch Komma getrennt)",
+        "delete event" : "*Entfernt ein Event*\n**Parameter:**\n-> Event ID = ID des Events"
+    },
+    "Events": {
+        "start_anmeldephase": "*Startet die Anmeldephase für ein Event und sendet das Embed an den Kanal.*\n**Parameter:**\n-> Titel des Events\n**Berechtigung:**\n- Event Manager Rolle",
+        "beende_anmeldephase": "*Beendet die Anmelde Phase für ein Event und sendet das Embed an den Kanal.*\n**Parameter:**\n-> Titel des Events\n**Berechtigung:**\n- Event Manager Rolle",
+        "anmeldeldung_hilfe": "*Sendet ein Embed mit der Anleitung wie man sich anmeldet an den Kanal\n**Berechtigung:**\n- Event Manager Rolle",
+        "register_event": "Registrierung für das kommende Event\n\n**Parameter:**\n#SpielerTag\n**Berechtigung:**\n- everyone",
+        "download_registrations": "*Die Anmelde Daten werden in eine CSV Datei gespeichert und zum Download angeboten.*\n**Berechtigung:**\n- Event Manager Rolle"
+    },
+    "Deathzone": {
+        "dz cw announcement": "*Schickt ein Embed in den Kanal für eine CW Umfrage, mit Reaktion.*\n\n",
+        "dz save reactions" : "Speichert die Reactionen für die CW Umfrage.\n**Parameter:**\n-> Message ID der Umfrage",
+        "dz auswertung": "*Wertet die letzte cw Umfrage des Monats aus.*\n**Parameter:**\n-> Message ID der Umfrage",
+        "dz ja reaktionen": "*Zeigt die CW Umfrage an welche mit ja abgestimmt haben und die CoC Accounts die im Clan sind.*\n**Parameter:**\n-> Message ID"
+    },
+    "Academy": {
+        "ac cw announcement": "Schickt ein Embed in den Kanal für eine CW Umfrage, mit Reaktion. Das Datum wird anhand des Wochentags gespeichert.\n**Parameter:**\n-> Wochentag",
+        "ac save reactions" : "*Speichert die Reactionen für die CW Umfrage.*\n**Parameter:**\n-> Message ID der Umfrage",
+        "ac auswertung": "*Wertet die letzte cw Umfrage des Monats aus.*\n**Parameter:**\n-> Message ID der Umfrage",
+        "ac ja reaktionen": "*Zeigt die CW Umfrage an welche mit ja abgestimmt haben und die CoC Accounts die im Clan sind.*\n**Parameter:**\n-> Message ID"
+    },
+    "Immortality": {
+        "im cw announcement": "Schickt ein Embed in den Kanal für eine CW Umfrage, mit Reaktion. Das Datum wird anhand des Wochentags gespeichert.\n**Parameter:**\n-> Wochentag",
+        "im save reactions" : "*Speichert die Reactionen für die CW Umfrage.*\n**Parameter:**\n-> Message ID der Umfrage",
+        "im auswertung": "*Wertet die letzte cw Umfrage des Monats aus.*\n**Parameter:**\n-> Message ID der Umfrage",
+        "im ja reaktionen": "*Zeigt die CW Umfrage an welche mit ja abgestimmt haben und die CoC Accounts die im Clan sind.*\n**Parameter:**\n-> Message ID"
+        
+    },
+    "Utopia": {
+        "ut cw announcement": "*Schickt ein Embed in den Kanal für eine CW Umfrage, mit Reaktion. Das Datum wird anhand des Wochentags gespeichert.*\n**Parameter:**\n-> Wochentag",
+        "ut save reactions" : "*Speichert die Reactionen für die CW Umfrage.*\n**Parameter:**\n-> Message ID der Umfrage",
+        "ut auswertung": "*Wertet die letzte cw Umfrage des Monats aus.*\n**Parameter:**\n-> Message ID der Umfrage",
+        "ut ja reaktionen": "*Zeigt die CW Umfrage an welche mit ja abgestimmt haben und die CoC Accounts die im Clan sind.*\n**Parameter:**\n-> Message ID"
+    }
+}

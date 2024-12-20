@@ -1,0 +1,1691 @@
+{
+    "tag": "#2P82CQQJL",
+    "name": "DZ⚜️Academy",
+    "type": "inviteOnly",
+    "description": "☠Willkommen im Reich der Toten☠                                                   ⚜️Ab TH15 unrushed                                                            ⚜️Discord: gAxdSN47kS",
+    "location": {
+        "id": 32000094,
+        "name": "Germany",
+        "isCountry": true,
+        "countryCode": "DE"
+    },
+    "isFamilyFriendly": false,
+    "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/o1rDeJBzFW4lWcj5s_xZDgkg8iuCqUX0beLeB_Mm7Qw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/o1rDeJBzFW4lWcj5s_xZDgkg8iuCqUX0beLeB_Mm7Qw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/o1rDeJBzFW4lWcj5s_xZDgkg8iuCqUX0beLeB_Mm7Qw.png"
+    },
+    "clanLevel": 23,
+    "clanPoints": 45988,
+    "clanBuilderBasePoints": 41600,
+    "clanCapitalPoints": 4644,
+    "capitalLeague": {
+        "id": 85000020,
+        "name": "Titan League II"
+    },
+    "requiredTrophies": 0,
+    "warFrequency": "always",
+    "warWinStreak": 6,
+    "warWins": 390,
+    "warTies": 25,
+    "warLosses": 66,
+    "isWarLogPublic": true,
+    "warLeague": {
+        "id": 48000017,
+        "name": "Champion League II"
+    },
+    "members": 37,
+    "memberList": [
+        {
+            "tag": "#8YCRPVU9J",
+            "name": "the hunter",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 228,
+            "league": {
+                "id": 29000022,
+                "name": "Legend League",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+                }
+            },
+            "trophies": 5427,
+            "builderBaseTrophies": 4271,
+            "clanRank": 1,
+            "previousClanRank": 0,
+            "donations": 1,
+            "donationsReceived": 159,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000000
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000088
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000087
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000060
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000031,
+                "name": "Titanium League I"
+            }
+        },
+        {
+            "tag": "#89PVYGY2",
+            "name": "•DZ⚜Tobi™",
+            "role": "Co-Leader",
+            "townHallLevel": 16,
+            "expLevel": 240,
+            "league": {
+                "id": 29000022,
+                "name": "Legend League",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+                }
+            },
+            "trophies": 5421,
+            "builderBaseTrophies": 4075,
+            "clanRank": 2,
+            "previousClanRank": 5,
+            "donations": 8666,
+            "donationsReceived": 2245,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000006
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000055
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000046
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000068
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000030,
+                "name": "Titanium League II"
+            }
+        },
+        {
+            "tag": "#YPU99RQV0",
+            "name": "schlange",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 221,
+            "league": {
+                "id": 29000022,
+                "name": "Legend League",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+                }
+            },
+            "trophies": 5339,
+            "builderBaseTrophies": 2281,
+            "clanRank": 3,
+            "previousClanRank": 1,
+            "donations": 0,
+            "donationsReceived": 249,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000002
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000052
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000031
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000060
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000021,
+                "name": "Brass League II"
+            }
+        },
+        {
+            "tag": "#20Y898VV0",
+            "name": "-DZ⚜️Royal™️",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 257,
+            "league": {
+                "id": 29000022,
+                "name": "Legend League",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+                }
+            },
+            "trophies": 5315,
+            "builderBaseTrophies": 3733,
+            "clanRank": 4,
+            "previousClanRank": 6,
+            "donations": 1964,
+            "donationsReceived": 1356,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000006
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000053
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000032
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000064
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000028,
+                "name": "Steel League I"
+            }
+        },
+        {
+            "tag": "#LCJ02CP",
+            "name": "Black Star",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 260,
+            "league": {
+                "id": 29000022,
+                "name": "Legend League",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+                }
+            },
+            "trophies": 5303,
+            "builderBaseTrophies": 3285,
+            "clanRank": 5,
+            "previousClanRank": 3,
+            "donations": 1575,
+            "donationsReceived": 1105,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000000
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000048
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000009
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000058
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000026,
+                "name": "Steel League III"
+            }
+        },
+        {
+            "tag": "#LV0VC022",
+            "name": "-DZ⚜️Marvin",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 259,
+            "league": {
+                "id": 29000022,
+                "name": "Legend League",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+                }
+            },
+            "trophies": 5286,
+            "builderBaseTrophies": 3391,
+            "clanRank": 6,
+            "previousClanRank": 4,
+            "donations": 2257,
+            "donationsReceived": 1446,
+            "playerHouse": {
+                "elements": []
+            },
+            "builderBaseLeague": {
+                "id": 44000026,
+                "name": "Steel League III"
+            }
+        },
+        {
+            "tag": "#99G9V02QY",
+            "name": "Klumpi",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 241,
+            "league": {
+                "id": 29000022,
+                "name": "Legend League",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+                }
+            },
+            "trophies": 5248,
+            "builderBaseTrophies": 5054,
+            "clanRank": 7,
+            "previousClanRank": 9,
+            "donations": 430,
+            "donationsReceived": 679,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000002
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000052
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000082
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000066
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000035,
+                "name": "Emerald League III"
+            }
+        },
+        {
+            "tag": "#22J8YYC2C",
+            "name": "ausserkontrolle",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 237,
+            "league": {
+                "id": 29000022,
+                "name": "Legend League",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+                }
+            },
+            "trophies": 5211,
+            "builderBaseTrophies": 4457,
+            "clanRank": 8,
+            "previousClanRank": 7,
+            "donations": 0,
+            "donationsReceived": 1740,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000004
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000048
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000033
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000063
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000032,
+                "name": "Platinum League III"
+            }
+        },
+        {
+            "tag": "#2GQVUQVR0",
+            "name": "Dr Mujtaba",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 249,
+            "league": {
+                "id": 29000022,
+                "name": "Legend League",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+                }
+            },
+            "trophies": 5167,
+            "builderBaseTrophies": 3157,
+            "clanRank": 9,
+            "previousClanRank": 11,
+            "donations": 0,
+            "donationsReceived": 495,
+            "playerHouse": {
+                "elements": []
+            },
+            "builderBaseLeague": {
+                "id": 44000025,
+                "name": "Iron League I"
+            }
+        },
+        {
+            "tag": "#9P9CCU89",
+            "name": "smn782",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 223,
+            "league": {
+                "id": 29000022,
+                "name": "Legend League",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+                }
+            },
+            "trophies": 5128,
+            "builderBaseTrophies": 4340,
+            "clanRank": 10,
+            "previousClanRank": 0,
+            "donations": 0,
+            "donationsReceived": 414,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000004
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000092
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000087
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000089
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000031,
+                "name": "Titanium League I"
+            }
+        },
+        {
+            "tag": "#L9PPR0CY9",
+            "name": "•DZ⚜️taktiko™",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 230,
+            "league": {
+                "id": 29000022,
+                "name": "Legend League",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+                }
+            },
+            "trophies": 5098,
+            "builderBaseTrophies": 4826,
+            "clanRank": 11,
+            "previousClanRank": 13,
+            "donations": 70,
+            "donationsReceived": 535,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000004
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000049
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000081
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000066
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000034,
+                "name": "Platinum League I"
+            }
+        },
+        {
+            "tag": "#PQPGC0R09",
+            "name": "SSVjahn123",
+            "role": "Member",
+            "townHallLevel": 16,
+            "expLevel": 209,
+            "league": {
+                "id": 29000022,
+                "name": "Legend League",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+                }
+            },
+            "trophies": 5093,
+            "builderBaseTrophies": 3895,
+            "clanRank": 12,
+            "previousClanRank": 8,
+            "donations": 2174,
+            "donationsReceived": 1432,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000123
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000122
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000120
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000121
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000029,
+                "name": "Titanium League III"
+            }
+        },
+        {
+            "tag": "#2PPYV028Q",
+            "name": "•DZ⚜Z3NO™",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 245,
+            "league": {
+                "id": 29000021,
+                "name": "Titan League I",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+                }
+            },
+            "trophies": 4991,
+            "builderBaseTrophies": 3210,
+            "clanRank": 13,
+            "previousClanRank": 10,
+            "donations": 124,
+            "donationsReceived": 159,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000004
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000092
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000081
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000080
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000026,
+                "name": "Steel League III"
+            }
+        },
+        {
+            "tag": "#GGUGG2CJ",
+            "name": "King Nils",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 274,
+            "league": {
+                "id": 29000022,
+                "name": "Legend League",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+                }
+            },
+            "trophies": 4985,
+            "builderBaseTrophies": 5000,
+            "clanRank": 14,
+            "previousClanRank": 19,
+            "donations": 1047,
+            "donationsReceived": 585,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000004
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000079
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000081
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000066
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000035,
+                "name": "Emerald League III"
+            }
+        },
+        {
+            "tag": "#RRVP29U2",
+            "name": "Maxax",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 230,
+            "league": {
+                "id": 29000021,
+                "name": "Titan League I",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+                }
+            },
+            "trophies": 4965,
+            "builderBaseTrophies": 4057,
+            "clanRank": 15,
+            "previousClanRank": 15,
+            "donations": 60,
+            "donationsReceived": 163,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000001
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000079
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000010
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000064
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000030,
+                "name": "Titanium League II"
+            }
+        },
+        {
+            "tag": "#UCPPUR0R",
+            "name": "#BS# Pati",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 225,
+            "league": {
+                "id": 29000022,
+                "name": "Legend League",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+                }
+            },
+            "trophies": 4960,
+            "builderBaseTrophies": 4418,
+            "clanRank": 16,
+            "previousClanRank": 12,
+            "donations": 507,
+            "donationsReceived": 927,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000002
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000092
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000046
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000068
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000032,
+                "name": "Platinum League III"
+            }
+        },
+        {
+            "tag": "#22GVQPJ9G",
+            "name": "Joshua",
+            "role": "Elder",
+            "townHallLevel": 15,
+            "expLevel": 221,
+            "league": {
+                "id": 29000021,
+                "name": "Titan League I",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+                }
+            },
+            "trophies": 4878,
+            "builderBaseTrophies": 2809,
+            "clanRank": 17,
+            "previousClanRank": 14,
+            "donations": 0,
+            "donationsReceived": 424,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000001
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000048
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000082
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000062
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000024,
+                "name": "Iron League II"
+            }
+        },
+        {
+            "tag": "#G9UYPJ2P",
+            "name": "Adigro",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 250,
+            "league": {
+                "id": 29000021,
+                "name": "Titan League I",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+                }
+            },
+            "trophies": 4841,
+            "builderBaseTrophies": 3041,
+            "clanRank": 18,
+            "previousClanRank": 18,
+            "donations": 0,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000004
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000079
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000081
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000066
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000025,
+                "name": "Iron League I"
+            }
+        },
+        {
+            "tag": "#Y2VLRLG8G",
+            "name": "•DZ⚜️Tomi No.2™",
+            "role": "Leader",
+            "townHallLevel": 15,
+            "expLevel": 222,
+            "league": {
+                "id": 29000021,
+                "name": "Titan League I",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+                }
+            },
+            "trophies": 4838,
+            "builderBaseTrophies": 1467,
+            "clanRank": 19,
+            "previousClanRank": 16,
+            "donations": 508,
+            "donationsReceived": 1294,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000002
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000049
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000040
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000060
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000014,
+                "name": "Stone League I"
+            }
+        },
+        {
+            "tag": "#RG9PYJGP",
+            "name": "CANADA",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 270,
+            "league": {
+                "id": 29000021,
+                "name": "Titan League I",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+                }
+            },
+            "trophies": 4833,
+            "builderBaseTrophies": 4977,
+            "clanRank": 20,
+            "previousClanRank": 17,
+            "donations": 601,
+            "donationsReceived": 988,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000001
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000053
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000010
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000060
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000034,
+                "name": "Platinum League I"
+            }
+        },
+        {
+            "tag": "#GGQY0CYU",
+            "name": "finni",
+            "role": "Member",
+            "townHallLevel": 15,
+            "expLevel": 197,
+            "league": {
+                "id": 29000021,
+                "name": "Titan League I",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+                }
+            },
+            "trophies": 4765,
+            "builderBaseTrophies": 4332,
+            "clanRank": 21,
+            "previousClanRank": 20,
+            "donations": 72,
+            "donationsReceived": 1008,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000002
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000049
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000031
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000067
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000031,
+                "name": "Titanium League I"
+            }
+        },
+        {
+            "tag": "#YGVG8C2P0",
+            "name": "⚡MaxiKing⚡",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 221,
+            "league": {
+                "id": 29000021,
+                "name": "Titan League I",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+                }
+            },
+            "trophies": 4727,
+            "builderBaseTrophies": 3883,
+            "clanRank": 22,
+            "previousClanRank": 21,
+            "donations": 1822,
+            "donationsReceived": 1465,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000002
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000052
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000032
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000068
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000029,
+                "name": "Titanium League III"
+            }
+        },
+        {
+            "tag": "#2LYRQGR0R",
+            "name": "Sebastian",
+            "role": "Member",
+            "townHallLevel": 16,
+            "expLevel": 244,
+            "league": {
+                "id": 29000021,
+                "name": "Titan League I",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/qVCZmeYH0lS7Gaa6YoB7LrNly7bfw7fV_d4Vp2CU-gk.png"
+                }
+            },
+            "trophies": 4658,
+            "builderBaseTrophies": 3608,
+            "clanRank": 23,
+            "previousClanRank": 22,
+            "donations": 106,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000002
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000049
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000016
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000064
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000028,
+                "name": "Steel League I"
+            }
+        },
+        {
+            "tag": "#C80G0GG9",
+            "name": "lala",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 257,
+            "league": {
+                "id": 29000020,
+                "name": "Titan League II",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png"
+                }
+            },
+            "trophies": 4534,
+            "builderBaseTrophies": 5000,
+            "clanRank": 24,
+            "previousClanRank": 23,
+            "donations": 105,
+            "donationsReceived": 531,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000002
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000049
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000010
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000067
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000035,
+                "name": "Emerald League III"
+            }
+        },
+        {
+            "tag": "#22VV098YR",
+            "name": "Schnitzel♡™",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 243,
+            "league": {
+                "id": 29000020,
+                "name": "Titan League II",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/llpWocHlOoFliwyaEx5Z6dmoZG4u4NmxwpF-Jg7su7Q.png"
+                }
+            },
+            "trophies": 4363,
+            "builderBaseTrophies": 3424,
+            "clanRank": 25,
+            "previousClanRank": 24,
+            "donations": 0,
+            "donationsReceived": 105,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000001
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000049
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000032
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000066
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000027,
+                "name": "Steel League II"
+            }
+        },
+        {
+            "tag": "#QYQ8JY0V",
+            "name": "AlexS9032",
+            "role": "Member",
+            "townHallLevel": 16,
+            "expLevel": 220,
+            "league": {
+                "id": 29000019,
+                "name": "Titan League III",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png"
+                }
+            },
+            "trophies": 4188,
+            "builderBaseTrophies": 3932,
+            "clanRank": 26,
+            "previousClanRank": 25,
+            "donations": 2032,
+            "donationsReceived": 2169,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000002
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000052
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000010
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000063
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000029,
+                "name": "Titanium League III"
+            }
+        },
+        {
+            "tag": "#YLC992Y9",
+            "name": "Dz⚜️JoOoKeRrRr",
+            "role": "Elder",
+            "townHallLevel": 15,
+            "expLevel": 227,
+            "league": {
+                "id": 29000019,
+                "name": "Titan League III",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png"
+                }
+            },
+            "trophies": 4118,
+            "builderBaseTrophies": 4888,
+            "clanRank": 27,
+            "previousClanRank": 26,
+            "donations": 0,
+            "donationsReceived": 371,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000002
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000049
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000010
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000061
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000034,
+                "name": "Platinum League I"
+            }
+        },
+        {
+            "tag": "#V9Q0208Y",
+            "name": "Davidrhd",
+            "role": "Elder",
+            "townHallLevel": 15,
+            "expLevel": 236,
+            "league": {
+                "id": 29000019,
+                "name": "Titan League III",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/L-HrwYpFbDwWjdmhJQiZiTRa_zXPPOgUTdmbsaq4meo.png"
+                }
+            },
+            "trophies": 4031,
+            "builderBaseTrophies": 5000,
+            "clanRank": 28,
+            "previousClanRank": 27,
+            "donations": 533,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000002
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000049
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000035
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000115
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000035,
+                "name": "Emerald League III"
+            }
+        },
+        {
+            "tag": "#YVPGRLPUU",
+            "name": "lala2",
+            "role": "Member",
+            "townHallLevel": 15,
+            "expLevel": 176,
+            "league": {
+                "id": 29000018,
+                "name": "Champion League I",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/9v_04LHmd1LWq7IoY45dAdGhrBkrc2ZFMZVhe23PdCE.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/9v_04LHmd1LWq7IoY45dAdGhrBkrc2ZFMZVhe23PdCE.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/9v_04LHmd1LWq7IoY45dAdGhrBkrc2ZFMZVhe23PdCE.png"
+                }
+            },
+            "trophies": 3916,
+            "builderBaseTrophies": 2695,
+            "clanRank": 29,
+            "previousClanRank": 28,
+            "donations": 1347,
+            "donationsReceived": 508,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000000
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000048
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000017
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000058
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000023,
+                "name": "Iron League III"
+            }
+        },
+        {
+            "tag": "#R8R28GRP",
+            "name": "•DZ⚜Stöbi™",
+            "role": "Member",
+            "townHallLevel": 16,
+            "expLevel": 264,
+            "league": {
+                "id": 29000018,
+                "name": "Champion League I",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/9v_04LHmd1LWq7IoY45dAdGhrBkrc2ZFMZVhe23PdCE.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/9v_04LHmd1LWq7IoY45dAdGhrBkrc2ZFMZVhe23PdCE.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/9v_04LHmd1LWq7IoY45dAdGhrBkrc2ZFMZVhe23PdCE.png"
+                }
+            },
+            "trophies": 3829,
+            "builderBaseTrophies": 4101,
+            "clanRank": 30,
+            "previousClanRank": 29,
+            "donations": 0,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000006
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000055
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000046
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000067
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000030,
+                "name": "Titanium League II"
+            }
+        },
+        {
+            "tag": "#P82QJUPCU",
+            "name": "Lele123",
+            "role": "Member",
+            "townHallLevel": 16,
+            "expLevel": 239,
+            "league": {
+                "id": 29000000,
+                "name": "Unranked",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+                    "medium": null
+                }
+            },
+            "trophies": 3693,
+            "builderBaseTrophies": 5000,
+            "clanRank": 31,
+            "previousClanRank": 0,
+            "donations": 0,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000004
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000092
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000035
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000080
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000035,
+                "name": "Emerald League III"
+            }
+        },
+        {
+            "tag": "#8QPLPQ8V",
+            "name": "•DZ⚜️Moritz™️",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 249,
+            "league": {
+                "id": 29000017,
+                "name": "Champion League II",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/kLWSSyq7vJiRiCantiKCoFuSJOxief6R1ky6AyfB8q0.png"
+                }
+            },
+            "trophies": 3576,
+            "builderBaseTrophies": 3682,
+            "clanRank": 32,
+            "previousClanRank": 30,
+            "donations": 0,
+            "donationsReceived": 83,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000002
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000052
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000045
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000066
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000028,
+                "name": "Steel League I"
+            }
+        },
+        {
+            "tag": "#PP2YC99JQ",
+            "name": "Silent",
+            "role": "Co-Leader",
+            "townHallLevel": 13,
+            "expLevel": 175,
+            "league": {
+                "id": 29000016,
+                "name": "Champion League III",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/JmmTbspV86xBigM7OP5_SjsEDPuE7oXjZC9aOy8xO3s.png"
+                }
+            },
+            "trophies": 3373,
+            "builderBaseTrophies": 3026,
+            "clanRank": 33,
+            "previousClanRank": 31,
+            "donations": 0,
+            "donationsReceived": 616,
+            "playerHouse": {
+                "elements": []
+            },
+            "builderBaseLeague": {
+                "id": 44000025,
+                "name": "Iron League I"
+            }
+        },
+        {
+            "tag": "#YPCJ8RQCL",
+            "name": "jsvss",
+            "role": "Member",
+            "townHallLevel": 16,
+            "expLevel": 188,
+            "league": {
+                "id": 29000015,
+                "name": "Master League I",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/olUfFb1wscIH8hqECAdWbdB6jPm9R8zzEyHIzyBgRXc.png"
+                }
+            },
+            "trophies": 2985,
+            "builderBaseTrophies": 2384,
+            "clanRank": 34,
+            "previousClanRank": 0,
+            "donations": 283,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000002
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000049
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000011
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000063
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000021,
+                "name": "Brass League II"
+            }
+        },
+        {
+            "tag": "#90QL8LY22",
+            "name": "TheJonah",
+            "role": "Member",
+            "townHallLevel": 15,
+            "expLevel": 215,
+            "league": {
+                "id": 29000011,
+                "name": "Crystal League II",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png"
+                }
+            },
+            "trophies": 2353,
+            "builderBaseTrophies": 5041,
+            "clanRank": 35,
+            "previousClanRank": 32,
+            "donations": 431,
+            "donationsReceived": 83,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000004
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000079
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000082
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000066
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000035,
+                "name": "Emerald League III"
+            }
+        },
+        {
+            "tag": "#YQYPUUQV",
+            "name": "•DZ⚜️Fluffi™️",
+            "role": "Elder",
+            "townHallLevel": 16,
+            "expLevel": 270,
+            "league": {
+                "id": 29000011,
+                "name": "Crystal League II",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/jhP36EhAA9n1ADafdQtCP-ztEAQjoRpY7cT8sU7SW8A.png"
+                }
+            },
+            "trophies": 2241,
+            "builderBaseTrophies": 4412,
+            "clanRank": 36,
+            "previousClanRank": 33,
+            "donations": 1011,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000004
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000055
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000081
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000066
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000032,
+                "name": "Platinum League III"
+            }
+        },
+        {
+            "tag": "#YQCGRYL8",
+            "name": "LUKAS:)",
+            "role": "Member",
+            "townHallLevel": 15,
+            "expLevel": 225,
+            "league": {
+                "id": 29000010,
+                "name": "Crystal League III",
+                "iconUrls": {
+                    "small": "https://api-assets.clashofclans.com/leagues/72/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+                    "tiny": "https://api-assets.clashofclans.com/leagues/36/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png",
+                    "medium": "https://api-assets.clashofclans.com/leagues/288/Hyqco7bHh0Q81xB8mSF_ZhjKnKcTmJ9QEq9QGlsxiKE.png"
+                }
+            },
+            "trophies": 2125,
+            "builderBaseTrophies": 5241,
+            "clanRank": 37,
+            "previousClanRank": 34,
+            "donations": 439,
+            "donationsReceived": 0,
+            "playerHouse": {
+                "elements": [
+                    {
+                        "type": "ground",
+                        "id": 82000004
+                    },
+                    {
+                        "type": "walls",
+                        "id": 82000052
+                    },
+                    {
+                        "type": "roof",
+                        "id": 82000081
+                    },
+                    {
+                        "type": "decoration",
+                        "id": 82000066
+                    }
+                ]
+            },
+            "builderBaseLeague": {
+                "id": 44000036,
+                "name": "Emerald League II"
+            }
+        }
+    ]
+}
